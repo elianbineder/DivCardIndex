@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator - Divination Card Index</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Divination Card Index</h1>
+            <div class="controls">
+                <button id="backToMainBtn" class="btn btn-primary">Back to Main Page</button>
+            </div>
+        </header>
+
+        <div class="content-area">
+            <h2>Calculator</h2>
+            <p>Calculate card weights based on theoretical weight and average drop rates obtained by current strat used</p>
+            
+            <!-- Calculator Table -->
+            <div class="calculator-container">
+                <table class="calculator-table">
+                    <thead>
+                        <tr>
+                            <th>Card Avg Drop</th>
+                            <th>Weight of the Card</th>
+                            <th>Total Weight</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <input type="number" id="cardAvgDrop" class="calc-input" placeholder="Enter avg drop" step="0.01" min="0">
+                            </td>
+                            <td>
+                                <input type="number" id="cardWeight" class="calc-input" placeholder="Enter weight" step="0.01" min="0">
+                            </td>
+                            <td>
+                                <span id="totalWeight" class="calc-result">0.00</span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Cards of Interest Table -->
+            <div class="cards-container">
+                <h3>Cards of Interest</h3>
+                <div class="chisel-toggle">
+                    <label class="toggle-label">
+                        <input type="checkbox" id="divinationChisel" class="toggle-checkbox">
+                        <span class="toggle-slider"></span>
+                        Divination Chisel
+                    </label>
+                </div>
+                <table class="cards-table">
+                    <thead>
+                        <tr>
+                            <th>Card Name</th>
+                            <th>Stack Size</th>
+                            <th>Weight</th>
+                            <th>Chance to Drop</th>
+                            <th>Avg Drop in 144 Maps</th>
+                        </tr>
+                    </thead>
+                    <tbody id="cardsTableBody">
+                        <tr>
+                            <td><span class="card-name-display">-</span></td>
+                            <td><span class="card-stack-display">-</span></td>
+                            <td><span class="card-weight-display">-</span></td>
+                            <td><span class="chance-result">0.00%</span></td>
+                            <td><span class="avg-drop-result">0.00</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('backToMainBtn').addEventListener('click', function() {
+            window.location.href = 'index.html';
+        });
+
+        function calculateTotalWeight() {
+            const avgDrop = parseFloat(document.getElementById('cardAvgDrop').value) || 0;
+            const weight = parseFloat(document.getElementById('cardWeight').value) || 0;
+            
+            if (avgDrop > 0) {
+                const totalWeight = weight / avgDrop;
+                document.getElementById('totalWeight').textContent = totalWeight.toFixed(2);
+            } else {
+                document.getElementById('totalWeight').textContent = '0.00';
+            }
+            calculateAllCards();
+        }
+
+        function calculateAllCards() {
+            const totalWeight = parseFloat(document.getElementById('totalWeight').textContent) || 0;
+            const chiselMultiplier = document.getElementById('divinationChisel').checked ? 2 : 1;
+            
+            document.querySelectorAll('.card-weight-display').forEach((display, index) => {
+                const cardWeight = parseFloat(display.textContent) || 0;
+                const chanceToDrop = totalWeight > 0 ? (cardWeight / totalWeight) * 100 : 0;
+                const avgDrop144 = chanceToDrop * 144 / 100;
+                
+                const chanceResult = document.querySelectorAll('.chance-result')[index];
+                const avgDropResult = document.querySelectorAll('.avg-drop-result')[index];
+                
+                if (chanceResult && avgDropResult) {
+                    chanceResult.textContent = (chanceToDrop * chiselMultiplier).toFixed(2) + '%';
+                    avgDropResult.textContent = (avgDrop144 * chiselMultiplier).toFixed(2);
+                }
+            });
+        }
+
+        function loadCardsFromJSON() {
+            fetch('data/cardsOfInterest.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Failed to load cards data');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    const tbody = document.getElementById('cardsTableBody');
+                    tbody.innerHTML = '';
+                    
+                    data.cardsOfInterest.forEach(card => {
+                        addCardRowWithData(card.name, card.stackSize, card.weight);
+                    });
+                    
+                    calculateAllCards();
+                })
+                .catch(error => {
+                    console.error('Error loading cards:', error);
+                });
+        }
+
+        function addCardRowWithData(name = '', stackSize = 1, weight = 0) {
+            const tbody = document.getElementById('cardsTableBody');
+            const newRow = document.createElement('tr');
+            newRow.innerHTML = `
+                <td><span class="card-name-display">${name}</span></td>
+                <td><span class="card-stack-display">${stackSize}</span></td>
+                <td><span class="card-weight-display">${weight}</span></td>
+                <td><span class="chance-result">0.00%</span></td>
+                <td><span class="avg-drop-result">0.00</span></td>
+            `;
+            tbody.appendChild(newRow);
+        }
+
+        document.getElementById('cardAvgDrop').addEventListener('input', calculateTotalWeight);
+        document.getElementById('cardWeight').addEventListener('input', calculateTotalWeight);
+        document.getElementById('divinationChisel').addEventListener('change', calculateAllCards);
+
+        loadCardsFromJSON();
+    </script>
+</body>
+</html>

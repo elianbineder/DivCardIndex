@@ -1,0 +1,59 @@
+{
+  "cardsOfInterest": [
+    {
+      "name": "The Sephirot",
+      "stackSize": 11,
+      "weight": 341
+    },
+    {
+      "name": "Divine Beauty",
+      "stackSize": 12,
+      "weight": 553
+    },
+    {
+      "name": "The Fortunate",
+      "stackSize": 12,
+      "weight": 1800
+    },
+    {
+      "name": "Brother's Gift",
+      "stackSize": 1,
+      "weight": 56
+    },
+    {
+      "name": "I See Brothers",
+      "stackSize": 2,
+      "weight": 27
+    },
+    {
+      "name": "Seven Years Bad Luck",
+      "stackSize": 13,
+      "weight": 71
+    },
+    {
+      "name": "Unrequited Love",
+      "stackSize": 16,
+      "weight": 4
+    },
+    {
+      "name": "The Apothecary",
+      "stackSize": 5,
+      "weight": 9
+    },
+    {
+      "name": "The Doctor",
+      "stackSize": 8,
+      "weight": 15
+    },
+    {
+      "name": "Fire of Unknown Origin",
+      "stackSize": 7,
+      "weight": 15
+    },
+    {
+      "name": "Damnation",
+      "stackSize": 16,
+      "weight": 5
+    }
+  ]
+}

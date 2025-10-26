@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Divination Card Index</title>
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Divination Card Index</h1>
+            <div class="controls">
+                <div class="league-select-wrapper">
+                    <select id="leagueSelect" class="league-select">
+                        <option value="3.26" selected>3.26 - Mercenary</option>
+                        <option value="3.27">3.27 - Keepers of the Flame</option>
+                    </select>
+                    <div id="leagueSelectText" class="league-select-text">3.26 - Mercenary</div>
+                </div>
+                <input type="text" id="searchInput" placeholder="Search cards..." class="search-input">
+        <button id="addCardBtn" class="btn btn-primary">Add New Card</button>
+        <button id="reloadDataBtn" class="btn btn-reload">Reload Data</button>
+        <button id="exportJsonBtn" class="btn btn-secondary">Export to JSON</button>
+        <button id="calculatorBtn" class="btn btn-secondary">Calculator</button>
+            </div>
+        </header>
+
+        <div class="table-container">
+            <table id="cardTable" class="card-table">
+                <thead>
+                    <tr>
+                        <th class="sortable" data-column="id">ID <span class="sort-arrow">↕</span></th>
+                        <th class="sortable" data-column="name">Name <span class="sort-arrow">↕</span></th>
+                        <th class="sortable" data-column="reward">Reward <span class="sort-arrow">↕</span></th>
+                        <th class="sortable" data-column="stackSize">Stack Size <span class="sort-arrow">↕</span></th>
+                        <th class="sortable drop-location-header" data-column="dropLocation">Drop Location <span class="sort-arrow">↕</span></th>
+                        <th class="sortable weight-header" data-column="weight">Theoretical Weight <span class="sort-arrow">↕</span></th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="cardTableBody">
+                    <!-- Cards will be populated by JavaScript -->
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Add/Edit Card Modal -->
+        <div id="cardModal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <h2 id="modalTitle">Add New Card</h2>
+                <form id="cardForm">
+                    <div class="form-group">
+                        <label for="cardId">Card ID:</label>
+                        <input type="number" id="cardId" min="1" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="cardName">Card Name:</label>
+                        <input type="text" id="cardName" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="cardReward">Reward:</label>
+                        <input type="text" id="cardReward" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="cardStackSize">Stack Size:</label>
+                        <input type="number" id="cardStackSize" min="1" required>
+                    </div>
+                    <div class="form-group drop-location-field">
+                        <label for="cardDropLocation">Drop Location:</label>
+                        <input type="text" id="cardDropLocation" required>
+                    </div>
+                    <div class="form-group weight-field">
+                        <label for="cardGoldCost">Base Gold Cost (for weight calculation):</label>
+                        <input type="number" id="cardGoldCost" min="0" step="0.01" placeholder="Enter base gold cost">
+                    </div>
+                    <div class="form-group weight-field">
+                        <label for="cardWeight">Weight (auto-calculated from Gold Cost):</label>
+                        <input type="number" id="cardWeight" step="0.01" readonly placeholder="Auto-calculated">
+                    </div>
+                    <div class="form-actions">
+                        <button type="submit" class="btn btn-primary">Save Card</button>
+                        <button type="button" id="cancelBtn" class="btn btn-secondary">Cancel</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="cards.js"></script>
+</body>
+</html>
