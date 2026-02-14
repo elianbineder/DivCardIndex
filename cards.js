@@ -3,7 +3,7 @@ class DivinationCardIndex {
         this.cards = [];
         this.currentSort = { column: null, direction: 'asc' };
         this.editingCardId = null;
-        this.currentVersion = '3.26';
+        this.currentVersion = '3.27';
         
         this.initializeEventListeners();
         this.initializeSelectElement();
@@ -36,7 +36,7 @@ class DivinationCardIndex {
             '3.26': '3.26 - Mercenary',
             '3.27': '3.27 - Keepers of the Flame'
         };
-        return versionMap[version] || '3.26 - Mercenary';
+        return versionMap[version] || '3.27 - Keepers of the Flame';
     }
 
     updateTextOverlay() {
@@ -213,7 +213,7 @@ class DivinationCardIndex {
             '3.26': '3.26mercenary.json',
             '3.27': '3.27keepers.json'
         };
-        const fileName = versionMap[version] || '3.26mercenary.json';
+        const fileName = versionMap[version] || '3.27keepers.json';
         return fileName;
     }
 

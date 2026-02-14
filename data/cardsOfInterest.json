@@ -13,12 +13,12 @@
     {
       "name": "The Fortunate",
       "stackSize": 12,
-      "weight": 1800
+      "weight": 2025
     },
     {
       "name": "Brother's Gift",
       "stackSize": 1,
-      "weight": 56
+      "weight": 57
     },
     {
       "name": "I See Brothers",
@@ -28,7 +28,7 @@
     {
       "name": "Seven Years Bad Luck",
       "stackSize": 13,
-      "weight": 71
+      "weight": 73
     },
     {
       "name": "Unrequited Love",
@@ -43,12 +43,12 @@
     {
       "name": "The Doctor",
       "stackSize": 8,
-      "weight": 15
+      "weight": 16
     },
     {
       "name": "Fire of Unknown Origin",
       "stackSize": 7,
-      "weight": 15
+      "weight": 16
     },
     {
       "name": "Damnation",

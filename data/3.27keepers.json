@@ -1,4092 +1,4137 @@
 {
-  "version": "1.0",
-  "exportDate": "2025-10-26T06:26:42.044Z",
+  "version": "3.27",
+  "exportDate": "2026-02-14T19:54:08.468Z",
   "cards": [
     {
-      "id": 2934,
+      "id": 2969,
       "name": "Three Faces In The Dark",
       "reward": "3x Chaos Orb",
       "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2935,
-      "name": "The Doctor",
-      "reward": "Headhunter",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2936,
-      "name": "The Hermit",
-      "reward": "Lifesprig",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2937,
-      "name": "Lantador's Lost Love",
-      "reward": "Rare Two-Stone Ring",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2938,
-      "name": "The Metalsmith's Gift",
-      "reward": "Prismatic Ring",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2939,
-      "name": "The Battle Born",
-      "reward": "Unique Axe",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2940,
-      "name": "The Gladiator",
-      "reward": "Unique Nightmare Bascinet",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2941,
-      "name": "The Scholar",
-      "reward": "40x Scroll of Wisdom",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2942,
-      "name": "The Brittle Emperor",
-      "reward": "Voll's Devotion - Corrupted",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2943,
-      "name": "The Poet",
-      "reward": "Blood of Corruption - Corrupted",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2944,
-      "name": "The Carrion Crow",
-      "reward": "Magic Life Armour",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2945,
-      "name": "Hope",
-      "reward": "Unique Prismatic Ring (Corrupted)",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2946,
-      "name": "The Fiend",
-      "reward": "Headhunter - Corrupted",
-      "stackSize": 11,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2947,
-      "name": "Birth Of The Three",
-      "reward": "The Goddess Bound",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2948,
-      "name": "Vinia's Token",
-      "reward": "10x Orb of Regret",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2949,
-      "name": "The Summoner",
-      "reward": "Minion Gem Quality 20%",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2950,
-      "name": "The Cataclysm",
-      "reward": "21/0 Spell Gem",
-      "stackSize": 13,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2951,
-      "name": "The Hunger",
-      "reward": "Taste of Hate",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2952,
-      "name": "The Hoarder",
-      "reward": "Exalted Orb",
-      "stackSize": 12,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2953,
-      "name": "The Drunken Aristocrat",
-      "reward": "Divination Distillate",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2954,
-      "name": "The Sun",
-      "reward": "Rise of the Phoenix",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2955,
-      "name": "The Warden",
-      "reward": "Rare Amulet - Corrupted",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2956,
-      "name": "The Scarred Meadow",
-      "reward": "Wake of Destruction",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2957,
-      "name": "The Dark Mage",
-      "reward": "Six-Link Staff iLvl 55",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2958,
-      "name": "The Gemcutter",
-      "reward": "Gemcutter's Prism",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2959,
-      "name": "The Gambler",
-      "reward": "Divination Card",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2960,
-      "name": "The Lover",
-      "reward": "Rare Jewellery iLvl 79",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2961,
-      "name": "Chaotic Disposition",
-      "reward": "5x Chaos Orb",
-      "stackSize": 1,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2962,
-      "name": "The Road To Power",
-      "reward": "Runic One-Hand Weapon iLvl 100",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2963,
-      "name": "The Avenger",
-      "reward": "Mjölner - Corrupted",
-      "stackSize": 12,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2964,
-      "name": "Emperor's Luck",
-      "reward": "5x Currency",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2965,
-      "name": "Time-Lost Relic",
-      "reward": "League-Specific Item",
-      "stackSize": 10,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2966,
-      "name": "Lucky Connections",
-      "reward": "20x Orb of Fusing",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2967,
-      "name": "The Feast",
-      "reward": "Romira's Banquet - Corrupted ",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2968,
-      "name": "Rain Of Chaos",
-      "reward": "Chaos Orb",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 2969,
-      "name": "The Watcher",
-      "reward": "Crown of Eyes",
-      "stackSize": 12,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Armoury, Arsenal",
+      "goldCost": 25,
+      "weight": 40000
     },
     {
       "id": 2970,
-      "name": "The Incantation",
-      "reward": "The Whispering Ice",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Doctor",
+      "reward": "Headhunter",
+      "stackSize": 8,
+      "dropLocation": "Burial Chambers, Sepulchre",
+      "goldCost": 925,
+      "weight": 15.79
     },
     {
       "id": 2971,
-      "name": "Coveted Possession",
-      "reward": "5x Regal Orb",
+      "name": "The Hermit",
+      "reward": "Lifesprig",
       "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Act 7 Zones",
+      "goldCost": 35,
+      "weight": 28571.43
     },
     {
       "id": 2972,
-      "name": "The King's Heart",
-      "reward": "Kaom's Heart",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Lantador's Lost Love",
+      "reward": "Rare Two-Stone Ring",
+      "stackSize": 7,
+      "dropLocation": "Beach",
+      "goldCost": 35,
+      "weight": 28571.43
     },
     {
       "id": 2973,
-      "name": "Abandoned Wealth",
-      "reward": "3x Exalted Orb",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Metalsmith's Gift",
+      "reward": "Prismatic Ring",
+      "stackSize": 6,
+      "dropLocation": "Act 6 Zones",
+      "goldCost": 20,
+      "weight": 50000
     },
     {
       "id": 2974,
-      "name": "The Wind",
-      "reward": "Windripper",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Battle Born",
+      "reward": "Unique Axe",
+      "stackSize": 5,
+      "dropLocation": "Crater, Volcano",
+      "goldCost": 120,
+      "weight": 8333.33
     },
     {
       "id": 2975,
-      "name": "The Pact",
-      "reward": "Pledge of Hands",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Gladiator",
+      "reward": "Unique Nightmare Bascinet",
+      "stackSize": 5,
+      "dropLocation": "Arena, Pit, Pit of the Chimera",
+      "goldCost": 120,
+      "weight": 8333.33
     },
     {
       "id": 2976,
-      "name": "Gemcutter's Promise",
-      "reward": "Gem - Quality 20%",
+      "name": "The Scholar",
+      "reward": "40x Scroll of Wisdom",
       "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Museum",
+      "goldCost": 15,
+      "weight": 66666.67
     },
     {
       "id": 2977,
-      "name": "The Celestial Justicar",
-      "reward": "Six-Link Astral Plate",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Brittle Emperor",
+      "reward": "Voll's Devotion - Corrupted",
+      "stackSize": 8,
+      "dropLocation": "Wasteland",
+      "goldCost": 450,
+      "weight": 131.98
     },
     {
       "id": 2978,
-      "name": "The Chains That Bind",
-      "reward": "Six-Link Body Armour",
-      "stackSize": 11,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Poet",
+      "reward": "Blood of Corruption - Corrupted",
+      "stackSize": 9,
+      "dropLocation": "Arcade, Bazaar",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 2979,
-      "name": "The Artist",
-      "reward": "4/0 Enhance ",
-      "stackSize": 11,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Carrion Crow",
+      "reward": "Magic Life Armour",
+      "stackSize": 4,
+      "dropLocation": "Act 9 Zones",
+      "goldCost": 25,
+      "weight": 40000
     },
     {
       "id": 2980,
-      "name": "The Inventor",
-      "reward": "10x Vaal Orb",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Hope",
+      "reward": "Unique Prismatic Ring (Corrupted)",
+      "stackSize": 5,
+      "dropLocation": "Lava Lake",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 2981,
-      "name": "The Pack Leader",
-      "reward": "Alpha's Howl",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Fiend",
+      "reward": "Headhunter - Corrupted",
+      "stackSize": 11,
+      "dropLocation": "Factory, Chambers of Impurity",
+      "goldCost": 1350,
+      "weight": 5.14
     },
     {
       "id": 2982,
-      "name": "Jack In The Box",
-      "reward": "Unique Item",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
+      "name": "Birth Of The Three",
+      "reward": "The Goddess Bound",
+      "stackSize": 3,
+      "dropLocation": "Drop Disabled",
+      "goldCost": 100000000,
       "weight": 0
     },
     {
       "id": 2983,
-      "name": "The Union",
-      "reward": "10x Gemcutter's Prism",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Vinia's Token",
+      "reward": "10x Orb of Regret",
+      "stackSize": 5,
+      "dropLocation": "Poorjoy's Asylum",
+      "goldCost": 60,
+      "weight": 16666.67
     },
     {
       "id": 2984,
-      "name": "The Queen",
-      "reward": "Atziri's Acuity",
-      "stackSize": 16,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Summoner",
+      "reward": "Minion Gem Quality 20%",
+      "stackSize": 6,
+      "dropLocation": "Spider Forest",
+      "goldCost": 110,
+      "weight": 9090.91
     },
     {
       "id": 2985,
-      "name": "Humility",
-      "reward": "Tabula Rasa",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Cataclysm",
+      "reward": "21/0 Spell Gem",
+      "stackSize": 13,
+      "dropLocation": "Vaal Side Areas",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 2986,
-      "name": "The Explorer",
-      "reward": "Rare Map - Corrupted ",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Hunger",
+      "reward": "Taste of Hate",
+      "stackSize": 9,
+      "dropLocation": "Abomination, Phantasmagoria",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 2987,
-      "name": "The Spoiled Prince",
-      "reward": "Dictator's Prophecy Wand iLvl 100",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Hoarder",
+      "reward": "Exalted Orb",
+      "stackSize": 12,
+      "dropLocation": "Mao Kun, Mineral Pools",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 2988,
-      "name": "The Betrayal",
-      "reward": "Maligaro's Virtuosity",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Drunken Aristocrat",
+      "reward": "Divination Distillate",
+      "stackSize": 8,
+      "dropLocation": "Arsenal, Bazaar",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 2989,
-      "name": "The Flora's Gift",
-      "reward": "Five-Link Staff iLvl 66",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Sun",
+      "reward": "Rise of the Phoenix",
+      "stackSize": 7,
+      "dropLocation": "Temple",
+      "goldCost": 60,
+      "weight": 16666.67
     },
     {
       "id": 2990,
-      "name": "The Siren",
-      "reward": "The Whispering Ice - Corrupted",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Warden",
+      "reward": "Rare Amulet - Corrupted",
+      "stackSize": 4,
+      "dropLocation": "Cells",
+      "goldCost": 70,
+      "weight": 14285.71
     },
     {
       "id": 2991,
-      "name": "The One With All",
-      "reward": "Le Heup of All - Corrupted",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Scarred Meadow",
+      "reward": "Wake of Destruction",
+      "stackSize": 9,
+      "dropLocation": "Ashen Wood",
+      "goldCost": 35,
+      "weight": 28571.43
     },
     {
       "id": 2992,
-      "name": "The Last One Standing",
-      "reward": "Atziri's Disfavour",
-      "stackSize": 10,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Dark Mage",
+      "reward": "Six-Link Staff iLvl 55",
+      "stackSize": 6,
+      "dropLocation": "Acton's Nightmare, Overgrown Shrine",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 2993,
-      "name": "Doedre's Madness",
-      "reward": "Doedre item",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Gemcutter",
+      "reward": "Gemcutter's Prism",
+      "stackSize": 3,
+      "dropLocation": "Gemcutter's Strongboxes",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 2994,
-      "name": "The Encroaching Darkness",
-      "reward": "Unique Map - Corrupted",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Gambler",
+      "reward": "Divination Card",
+      "stackSize": 5,
+      "dropLocation": "Underground Sea",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 2995,
-      "name": "The Wrath",
-      "reward": "10x Chaos Orb",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Lover",
+      "reward": "Rare Jewellery iLvl 79",
+      "stackSize": 2,
+      "dropLocation": "Maelstrom of Chaos, Mineral Pools",
+      "goldCost": 10,
+      "weight": 100000
     },
     {
       "id": 2996,
-      "name": "The King's Blade",
-      "reward": "Bloodthirsty Eternal Sword iLvl 66",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Chaotic Disposition",
+      "reward": "5x Chaos Orb",
+      "stackSize": 1,
+      "dropLocation": "Oba's Cursed Trove, Underground Sea",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 2997,
-      "name": "The Trial",
-      "reward": "Rare Map Tier 15 - Corrupted",
+      "name": "The Road To Power",
+      "reward": "Runic One-Hand Weapon iLvl 100",
       "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Park, Shore ",
+      "goldCost": 350,
+      "weight": 274.87
     },
     {
       "id": 2998,
-      "name": "The Gentleman",
-      "reward": "Unique Sword - Corrupted",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Avenger",
+      "reward": "Mjölner - Corrupted",
+      "stackSize": 12,
+      "dropLocation": "Maelstrom of Chaos",
+      "goldCost": 375,
+      "weight": 224.83
     },
     {
       "id": 2999,
-      "name": "House Of Mirrors",
-      "reward": "Mirror of Kalandra",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Emperor's Luck",
+      "reward": "5x Currency",
+      "stackSize": 5,
+      "dropLocation": "Courtyard",
+      "goldCost": 10,
+      "weight": 100000
     },
     {
       "id": 3000,
-      "name": "Wealth And Power",
-      "reward": "4/0 Enlighten",
-      "stackSize": 11,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Time-Lost Relic",
+      "reward": "League-Specific Item",
+      "stackSize": 10,
+      "dropLocation": "Excavation",
+      "goldCost": 105,
+      "weight": 9523.81
     },
     {
       "id": 3001,
-      "name": "The Catalyst",
-      "reward": "Vaal Orb",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Lucky Connections",
+      "reward": "20x Orb of Fusing",
+      "stackSize": 7,
+      "dropLocation": "Port, Shipyard",
+      "goldCost": 95,
+      "weight": 10526.32
     },
     {
       "id": 3002,
-      "name": "The Vast",
-      "reward": "Song of the Sirens",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Feast",
+      "reward": "Romira's Banquet - Corrupted ",
+      "stackSize": 5,
+      "dropLocation": "Lair of the Hydra, Sulphur Vents",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3003,
-      "name": "Gift Of The Gemling Queen",
-      "reward": "20/0 Support Gem",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Rain Of Chaos",
+      "reward": "Chaos Orb",
+      "stackSize": 8,
+      "dropLocation": "Bone Crypt, Plateau",
+      "goldCost": 5,
+      "weight": 200000
     },
     {
       "id": 3004,
-      "name": "The Dragon's Heart",
-      "reward": "Level 4 Empower",
-      "stackSize": 11,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Watcher",
+      "reward": "Crown of Eyes",
+      "stackSize": 12,
+      "dropLocation": "Colosseum",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3005,
-      "name": "The Fox",
-      "reward": "20/0 Gem",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Incantation",
+      "reward": "The Whispering Ice",
+      "stackSize": 4,
+      "dropLocation": "Sepulchre, Waste Pool",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3006,
-      "name": "The Doppelganger",
-      "reward": "Mirror Arrow Quality 20%",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Coveted Possession",
+      "reward": "5x Regal Orb",
+      "stackSize": 9,
+      "dropLocation": "Forking River, Necropolis, Sanctuary, Ziggurat",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3007,
-      "name": "The Survivalist",
-      "reward": "7x Orb of Alchemy",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The King's Heart",
+      "reward": "Kaom's Heart",
+      "stackSize": 8,
+      "dropLocation": "Estuary",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3008,
-      "name": "Death",
-      "reward": "Mon'tregul's Grasp",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Abandoned Wealth",
+      "reward": "3x Exalted Orb",
+      "stackSize": 5,
+      "dropLocation": "Mao Kun",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3009,
-      "name": "Grave Knowledge",
-      "reward": "Summon Raging Spirit - Quality 20%",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Wind",
+      "reward": "Windripper",
+      "stackSize": 7,
+      "dropLocation": "Jungle Valley, Lighthouse",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3010,
-      "name": "The Jester",
-      "reward": "Merciless One-Hand Weapon iLvl 100",
+      "name": "The Pact",
+      "reward": "Pledge of Hands",
       "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Port, Primordial Pool",
+      "goldCost": 300,
+      "weight": 430.11
     },
     {
       "id": 3011,
-      "name": "The Mercenary",
-      "reward": "Unique Shield - Corrupted",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Gemcutter's Promise",
+      "reward": "Gem - Quality 20%",
+      "stackSize": 3,
+      "dropLocation": "Moon Temple",
+      "goldCost": 85,
+      "weight": 11764.71
     },
     {
       "id": 3012,
-      "name": "The Inoculated",
-      "reward": "Seraphim's Armour",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Celestial Justicar",
+      "reward": "Six-Link Astral Plate",
+      "stackSize": 6,
+      "dropLocation": "Citadel, Mausoleum, The Coward's Trial, Ziggurat",
+      "goldCost": 225,
+      "weight": 986.69
     },
     {
       "id": 3013,
-      "name": "Loyalty",
-      "reward": "3x Orb of Fusing",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Chains That Bind",
+      "reward": "Six-Link Body Armour",
+      "stackSize": 11,
+      "dropLocation": "Hallowed Ground",
+      "goldCost": 70,
+      "weight": 14285.71
     },
     {
       "id": 3014,
-      "name": "Pride Before The Fall",
-      "reward": "Kaom's Heart - Corrupted",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Artist",
+      "reward": "4/0 Enhance ",
+      "stackSize": 11,
+      "dropLocation": "Abomination",
+      "goldCost": 675,
+      "weight": 40.09
     },
     {
       "id": 3015,
-      "name": "Audacity",
-      "reward": "Doryani's Fist - Corrupted",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Inventor",
+      "reward": "10x Vaal Orb",
+      "stackSize": 6,
+      "dropLocation": "Vaal Temple",
+      "goldCost": 105,
+      "weight": 9523.81
     },
     {
       "id": 3016,
-      "name": "Assassin's Favour",
-      "reward": "Unique Dagger",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Pack Leader",
+      "reward": "Alpha's Howl",
+      "stackSize": 6,
+      "dropLocation": "Glacier, Summit",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3017,
-      "name": "Hunter's Resolve",
-      "reward": "Unique Bow",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Jack In The Box",
+      "reward": "Unique Item",
+      "stackSize": 4,
+      "dropLocation": "Ghetto",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3018,
-      "name": "Scholar Of The Seas",
-      "reward": "Mao Kun",
+      "name": "The Union",
+      "reward": "10x Gemcutter's Prism",
       "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Burial Chambers, Grave Trough",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3019,
-      "name": "The Conduit",
-      "reward": "Doryani's Fist",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Queen",
+      "reward": "Atziri's Acuity",
+      "stackSize": 16,
+      "dropLocation": "Vaults of Atziri",
+      "goldCost": 400,
+      "weight": 186.24
     },
     {
       "id": 3020,
-      "name": "The Tower",
-      "reward": "Unique Staff",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Humility",
+      "reward": "Tabula Rasa",
+      "stackSize": 9,
+      "dropLocation": "Channel, Forking RIver",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3021,
-      "name": "The Twins",
-      "reward": "Gemini Claw of Celebration iLvl 83",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Explorer",
+      "reward": "Rare Map - Corrupted ",
+      "stackSize": 6,
+      "dropLocation": "Arachnid Nest, Bramble Valley",
+      "goldCost": 85,
+      "weight": 11764.71
     },
     {
       "id": 3022,
-      "name": "Anarchy's Price",
-      "reward": "Voltaxic Rift - Corrupted",
-      "stackSize": 13,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Spoiled Prince",
+      "reward": "Dictator's Prophecy Wand iLvl 100",
+      "stackSize": 4,
+      "dropLocation": "Vaal Pyramid",
+      "goldCost": 225,
+      "weight": 986.69
     },
     {
       "id": 3023,
-      "name": "The Lich",
-      "reward": "Midnight Bargain - Corrupted",
-      "stackSize": 12,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Betrayal",
+      "reward": "Maligaro's Virtuosity",
+      "stackSize": 9,
+      "dropLocation": "Burial Chambers",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3024,
-      "name": "The Thaumaturgist",
-      "reward": "Shavronne's Revelation - Corrupted",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Flora's Gift",
+      "reward": "Five-Link Staff iLvl 66",
+      "stackSize": 5,
+      "dropLocation": "Courtyard",
+      "goldCost": 25,
+      "weight": 40000
     },
     {
       "id": 3025,
-      "name": "The Aesthete",
-      "reward": "Shavronne Item",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Siren",
+      "reward": "The Whispering Ice - Corrupted",
+      "stackSize": 7,
+      "dropLocation": "Maelstrom of Chaos, Whakawairua Tuahu",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3026,
-      "name": "The Enlightened",
-      "reward": "Level 3 Enlighten",
+      "name": "The One With All",
+      "reward": "Le Heup of All - Corrupted",
       "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Grave Trough, Necropolis",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3027,
-      "name": "Hunter's Reward",
-      "reward": "The Taming",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Last One Standing",
+      "reward": "Atziri's Disfavour",
+      "stackSize": 10,
+      "dropLocation": "Colosseum, Pit of the Chimera, Racecourse",
+      "goldCost": 850,
+      "weight": 20.29
     },
     {
       "id": 3028,
-      "name": "The Fletcher",
-      "reward": "Drillneck - Corrupted ",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Doedre's Madness",
+      "reward": "Doedre item",
+      "stackSize": 9,
+      "dropLocation": "The Putrid Cloister",
+      "goldCost": 50,
+      "weight": 20000
     },
     {
       "id": 3029,
-      "name": "The Surveyor",
-      "reward": "Map Tier 14",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Encroaching Darkness",
+      "reward": "Unique Map - Corrupted",
+      "stackSize": 8,
+      "dropLocation": "Acton's Nightmare, Olmec's Sanctum",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3030,
-      "name": "Bowyer's Dream",
-      "reward": "Six-Link Harbinger Bow - iLvl 91",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Wrath",
+      "reward": "10x Chaos Orb",
+      "stackSize": 8,
+      "dropLocation": "Belfry, Crimson Township",
+      "goldCost": 85,
+      "weight": 11764.71
     },
     {
       "id": 3031,
-      "name": "The Surgeon",
-      "reward": "Surgeon's Flask",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The King's Blade",
+      "reward": "Bloodthirsty Eternal Sword iLvl 66",
+      "stackSize": 5,
+      "dropLocation": "Canyon, Pit, Pit of the Chimera",
+      "goldCost": 15,
+      "weight": 66666.67
     },
     {
       "id": 3032,
-      "name": "Volatile Power",
-      "reward": "Vaal Gem Quality 20%",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Trial",
+      "reward": "Rare Map Tier 15 - Corrupted",
+      "stackSize": 7,
+      "dropLocation": "Alleyways, Chateau",
+      "goldCost": 115,
+      "weight": 8695.65
     },
     {
       "id": 3033,
-      "name": "Last Hope",
-      "reward": "Mortal Hope",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Gentleman",
+      "reward": "Unique Sword - Corrupted",
+      "stackSize": 4,
+      "dropLocation": "Bazaar",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3034,
-      "name": "Hubris",
-      "reward": "Unique Ring",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "House Of Mirrors",
+      "reward": "Mirror of Kalandra",
+      "stackSize": 9,
+      "dropLocation": "The Alluring Abyss",
+      "goldCost": 1850,
+      "weight": 2.01
     },
     {
       "id": 3035,
-      "name": "Blind Venture",
-      "reward": "Unique Ring - Corrupted",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Wealth And Power",
+      "reward": "4/0 Enlighten",
+      "stackSize": 11,
+      "dropLocation": "Citadel",
+      "goldCost": 675,
+      "weight": 40.09
     },
     {
       "id": 3036,
-      "name": "Merciless Armament",
-      "reward": "Merciless Two-Hand Weapon iLvl 100",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Catalyst",
+      "reward": "Vaal Orb",
+      "stackSize": 3,
+      "dropLocation": "Vaal Temple, Vaults of Atziri",
+      "goldCost": 25,
+      "weight": 40000
     },
     {
       "id": 3037,
-      "name": "The Cartographer",
-      "reward": "10x Cartographer's Chisel",
-      "stackSize": 1,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Vast",
+      "reward": "Song of the Sirens",
+      "stackSize": 7,
+      "dropLocation": "Atoll, Lighthouse",
+      "goldCost": 1200,
+      "weight": 7.3
     },
     {
       "id": 3038,
-      "name": "The Warlord",
-      "reward": "Six-Link Coronal Maul iLvl 83",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Gift Of The Gemling Queen",
+      "reward": "20/0 Support Gem",
+      "stackSize": 9,
+      "dropLocation": "The Twilight Temple",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3039,
-      "name": "The Demoness",
-      "reward": "Death's Hand",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Dragon's Heart",
+      "reward": "Level 4 Empower",
+      "stackSize": 11,
+      "dropLocation": "Fortress",
+      "goldCost": 675,
+      "weight": 40.09
     },
     {
       "id": 3040,
-      "name": "The Traitor",
-      "reward": "Unique Wand - Corrupted",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Fox",
+      "reward": "20/0 Gem",
+      "stackSize": 6,
+      "dropLocation": "Castle Ruins, Mesa",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3041,
-      "name": "The Offering",
-      "reward": "Shavronne's Wrappings",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Doppelganger",
+      "reward": "Mirror Arrow Quality 20%",
+      "stackSize": 2,
+      "dropLocation": "Underground Sea, Whakawairua Tuahu",
+      "goldCost": 35,
+      "weight": 28571.43
     },
     {
       "id": 3042,
-      "name": "Lost Worlds",
-      "reward": "Tier 15 Map",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Survivalist",
+      "reward": "7x Orb of Alchemy",
+      "stackSize": 3,
+      "dropLocation": "Marshes, Primordial Pool",
+      "goldCost": 90,
+      "weight": 11111.11
     },
     {
       "id": 3043,
-      "name": "The Lord In Black",
-      "reward": "Ring of Bameth iLvl 83",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Death",
+      "reward": "Mon'tregul's Grasp",
+      "stackSize": 4,
+      "dropLocation": "Abomination, Arid Lake, Mud Geyser",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3044,
-      "name": "A Mother's Parting Gift",
-      "reward": "Fertile Mind",
+      "name": "Grave Knowledge",
+      "reward": "Summon Raging Spirit - Quality 20%",
       "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Citadel, Cursed Crypt, Ziggurat",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3045,
-      "name": "The Body",
-      "reward": "Unique Body Armour",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Jester",
+      "reward": "Merciless One-Hand Weapon iLvl 100",
+      "stackSize": 9,
+      "dropLocation": "\"Ash Lessard\"",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3046,
-      "name": "Turn The Other Cheek",
-      "reward": "Pacifism - Corrupted",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Mercenary",
+      "reward": "Unique Shield - Corrupted",
+      "stackSize": 5,
+      "dropLocation": "Mesa, Strand",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3047,
-      "name": "Glimmer Of Hope",
-      "reward": "Unique Gold Ring",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Inoculated",
+      "reward": "Seraphim's Armour",
+      "stackSize": 4,
+      "dropLocation": "Abomination, Arid Lake",
+      "goldCost": 105,
+      "weight": 9523.81
     },
     {
       "id": 3048,
-      "name": "The Ethereal",
-      "reward": "Six-Link Vaal Regalia",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Loyalty",
+      "reward": "3x Orb of Fusing",
+      "stackSize": 5,
+      "dropLocation": "Caer Blaidd, Wolfpack's Den",
+      "goldCost": 20,
+      "weight": 50000
     },
     {
       "id": 3049,
-      "name": "Prosperity",
-      "reward": "Perandus' Gold Ring",
-      "stackSize": 10,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Pride Before The Fall",
+      "reward": "Kaom's Heart - Corrupted",
+      "stackSize": 8,
+      "dropLocation": "Crater, Estuary",
+      "goldCost": 450,
+      "weight": 131.98
     },
     {
       "id": 3050,
-      "name": "The Sigil",
-      "reward": "Unassailable Amulet",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Audacity",
+      "reward": "Doryani's Fist - Corrupted",
+      "stackSize": 5,
+      "dropLocation": "The Apex of Sacrifice",
+      "goldCost": 525,
+      "weight": 83.99
     },
     {
       "id": 3051,
-      "name": "The Dapper Prodigy",
-      "reward": "Six-Link Body Armour iLvl 100",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Assassin's Favour",
+      "reward": "Unique Dagger",
+      "stackSize": 9,
+      "dropLocation": "Arcade, Park",
+      "goldCost": 65,
+      "weight": 15384.62
     },
     {
       "id": 3052,
-      "name": "The Rabid Rhoa",
-      "reward": "Malicious Gemini Claw iLvl 83",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Hunter's Resolve",
+      "reward": "Unique Bow",
+      "stackSize": 8,
+      "dropLocation": "Grave Trough, Ramparts",
+      "goldCost": 75,
+      "weight": 13333.33
     },
     {
       "id": 3053,
-      "name": "The Soul",
-      "reward": "Soul Taker",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Scholar Of The Seas",
+      "reward": "Mao Kun",
+      "stackSize": 7,
+      "dropLocation": "Coves, Shore",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3054,
-      "name": "The Lion",
-      "reward": "Lioneye Item",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Conduit",
+      "reward": "Doryani's Fist",
+      "stackSize": 9,
+      "dropLocation": "Palace, Villa",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3055,
-      "name": "The Dragon",
-      "reward": "Coruscating Elixir",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Tower",
+      "reward": "Unique Staff",
+      "stackSize": 6,
+      "dropLocation": "Belfry, Pillars of Arun",
+      "goldCost": 100,
+      "weight": 10000
     },
     {
       "id": 3056,
-      "name": "Rats",
-      "reward": "Rat's Nest",
+      "name": "The Twins",
+      "reward": "Gemini Claw of Celebration iLvl 83",
       "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Moon Temple",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3057,
-      "name": "The Risk",
-      "reward": "Ventor's Gamble",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Anarchy's Price",
+      "reward": "Voltaxic Rift - Corrupted",
+      "stackSize": 13,
+      "dropLocation": "Rogue Exiles",
+      "goldCost": 1250,
+      "weight": 6.46
     },
     {
       "id": 3058,
-      "name": "Tranquillity",
-      "reward": "Voltaxic Rift",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Lich",
+      "reward": "Midnight Bargain - Corrupted",
+      "stackSize": 12,
+      "dropLocation": "Cursed Crypt, Oba's Cursed Trove, \"The Bone Sculptor\"",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3059,
-      "name": "Her Mask",
-      "reward": "Sacrifice Fragment",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Thaumaturgist",
+      "reward": "Shavronne's Revelation - Corrupted",
+      "stackSize": 8,
+      "dropLocation": "Poorjoy's Asylum",
+      "goldCost": 450,
+      "weight": 131.98
     },
     {
       "id": 3060,
-      "name": "Treasure Hunter",
-      "reward": "Vaults of Atziri",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Aesthete",
+      "reward": "Shavronne Item",
+      "stackSize": 8,
+      "dropLocation": "Abomination, Core",
+      "goldCost": 120,
+      "weight": 8333.33
     },
     {
       "id": 3061,
-      "name": "Earth Drinker",
-      "reward": "Granite Flask ",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Enlightened",
+      "reward": "Level 3 Enlighten",
+      "stackSize": 6,
+      "dropLocation": "Castle Ruins, Lookout, Sanctuary",
+      "goldCost": 525,
+      "weight": 83.99
     },
     {
       "id": 3062,
-      "name": "The Wolf's Shadow",
-      "reward": "Hyaon's Fury",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Hunter's Reward",
+      "reward": "The Taming",
+      "stackSize": 2,
+      "dropLocation": "\"Spirit Beasts\"",
+      "goldCost": 325,
+      "weight": 340.97
     },
     {
       "id": 3063,
-      "name": "The Arena Champion",
-      "reward": "Tier 12 Map",
-      "stackSize": 10,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Fletcher",
+      "reward": "Drillneck - Corrupted ",
+      "stackSize": 5,
+      "dropLocation": "Ashen Wood, Iceberg",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3064,
-      "name": "The Sephirot",
-      "reward": "10x Divine Orb",
-      "stackSize": 11,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Surveyor",
+      "reward": "Map Tier 14",
+      "stackSize": 4,
+      "dropLocation": "Belfry, Tower",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3065,
-      "name": "The Visionary",
-      "reward": "Lioneye's Vision",
+      "name": "Bowyer's Dream",
+      "reward": "Six-Link Harbinger Bow - iLvl 91",
       "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Ashen Wood, Spider Forest",
+      "goldCost": 425,
+      "weight": 156.01
     },
     {
       "id": 3066,
-      "name": "Thunderous Skies",
-      "reward": "Storm Cloud",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Surgeon",
+      "reward": "Surgeon's Flask",
+      "stackSize": 4,
+      "dropLocation": "Arachnid Tomb, Overgrown Shrine",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3067,
-      "name": "Dying Anguish",
-      "reward": "19/19 Transfigured Gem",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Volatile Power",
+      "reward": "Vaal Gem Quality 20%",
+      "stackSize": 9,
+      "dropLocation": "Excavation",
+      "goldCost": 110,
+      "weight": 9090.91
     },
     {
       "id": 3068,
-      "name": "The Immortal",
-      "reward": "House of Mirrors",
-      "stackSize": 10,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Last Hope",
+      "reward": "Mortal Hope",
+      "stackSize": 3,
+      "dropLocation": "Vaal Temple",
+      "goldCost": 110,
+      "weight": 9090.91
     },
     {
       "id": 3069,
-      "name": "The Throne",
-      "reward": "Kaom's Roots - Corrupted",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Hubris",
+      "reward": "Unique Ring",
+      "stackSize": 5,
+      "dropLocation": "Jeweller's Strongboxes",
+      "goldCost": 120,
+      "weight": 8333.33
     },
     {
       "id": 3070,
-      "name": "Boundless Realms",
-      "reward": "Map",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Blind Venture",
+      "reward": "Unique Ring - Corrupted",
+      "stackSize": 7,
+      "dropLocation": "Mausoleum, Museum, Sanctuary",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3071,
-      "name": "The Devastator",
-      "reward": "Atziri's Disfavour - Corrupted",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Merciless Armament",
+      "reward": "Merciless Two-Hand Weapon iLvl 100",
+      "stackSize": 4,
+      "dropLocation": "Ramparts",
+      "goldCost": 350,
+      "weight": 274.87
     },
     {
       "id": 3072,
-      "name": "Destined to Crumble",
-      "reward": "Rare Body Armour - iLvl 100",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Cartographer",
+      "reward": "10x Cartographer's Chisel",
+      "stackSize": 1,
+      "dropLocation": "Cartographer's Strongboxes",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3073,
-      "name": "Shard of Fate",
-      "reward": "Vivid Jewel",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Warlord",
+      "reward": "Six-Link Coronal Maul iLvl 83",
+      "stackSize": 6,
+      "dropLocation": "Promenade",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3074,
-      "name": "Heterochromia",
-      "reward": "Unique Two-Stone Ring",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Demoness",
+      "reward": "Death's Hand",
+      "stackSize": 5,
+      "dropLocation": "Bramble Valley, Thicket",
+      "goldCost": 65,
+      "weight": 15384.62
     },
     {
       "id": 3075,
-      "name": "Rain Tempter",
-      "reward": "Tier 6 Map",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Traitor",
+      "reward": "Unique Wand - Corrupted",
+      "stackSize": 4,
+      "dropLocation": "Lookout",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3076,
-      "name": "The Void",
-      "reward": "Any Reward",
-      "stackSize": 1,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Offering",
+      "reward": "Shavronne's Wrappings",
+      "stackSize": 8,
+      "dropLocation": "Abomination, Core, Tower",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3077,
-      "name": "The Tyrant",
-      "reward": "Merciless Weapon iLvl 100",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Lost Worlds",
+      "reward": "Tier 15 Map",
+      "stackSize": 8,
+      "dropLocation": "Kirac Shop",
+      "goldCost": 80,
+      "weight": 12500
     },
     {
       "id": 3078,
-      "name": "The Web",
-      "reward": "Weapon of Crafting",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Lord In Black",
+      "reward": "Ring of Bameth iLvl 83",
+      "stackSize": 6,
+      "dropLocation": "\"K'tash, the Hate Shepherd\"",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3079,
-      "name": "The Harvester",
-      "reward": "The Harvest",
-      "stackSize": 11,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "A Mother's Parting Gift",
+      "reward": "Fertile Mind",
+      "stackSize": 6,
+      "dropLocation": "The High Gardens, The Imperial Gardens",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3080,
-      "name": "The Lunaris Priestess",
-      "reward": "Sire of Shards",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Body",
+      "reward": "Unique Body Armour",
+      "stackSize": 4,
+      "dropLocation": "Armourer's Strongbox",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3081,
-      "name": "Emperor Of Purity",
-      "reward": "Six-Link Holy Chainmail - iLvl 60",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Turn The Other Cheek",
+      "reward": "Pacifism - Corrupted",
+      "stackSize": 3,
+      "dropLocation": "The Library",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3082,
-      "name": "The Cursed King",
-      "reward": "Rigwald's Curse",
+      "name": "Glimmer Of Hope",
+      "reward": "Unique Gold Ring",
       "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Primordial Pool",
+      "goldCost": 65,
+      "weight": 15384.62
     },
     {
       "id": 3083,
-      "name": "The Stormcaller",
-      "reward": "Agnerod Staff",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Ethereal",
+      "reward": "Six-Link Vaal Regalia",
+      "stackSize": 7,
+      "dropLocation": "The Allurying Abyss, The Apex of Sacrifice",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3084,
-      "name": "Lysah's Respite",
-      "reward": "Unique Agate Amulet - Corrupted",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Prosperity",
+      "reward": "Perandus' Gold Ring",
+      "stackSize": 10,
+      "dropLocation": "Palace, Sanctuary, Temple",
+      "goldCost": 55,
+      "weight": 18181.82
     },
     {
       "id": 3085,
-      "name": "Cartographer's Delight",
-      "reward": "Map Tier 5",
+      "name": "The Sigil",
+      "reward": "Unassailable Amulet",
       "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "City Square, Vaal Pyramid, Vaal Temple",
+      "goldCost": 90,
+      "weight": 11111.11
+    },
+    {
+      "id": 3086,
+      "name": "The Dapper Prodigy",
+      "reward": "Six-Link Body Armour iLvl 100",
+      "stackSize": 6,
+      "dropLocation": "Ivory Temple, Residence",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3087,
-      "name": "Lucky Deck",
-      "reward": "10x Stacked Deck",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Rabid Rhoa",
+      "reward": "Malicious Gemini Claw iLvl 83",
+      "stackSize": 4,
+      "dropLocation": "Arid Lake",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3088,
-      "name": "Light And Truth",
-      "reward": "Unique Crystal Sceptre",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Soul",
+      "reward": "Soul Taker",
+      "stackSize": 9,
+      "dropLocation": "Abomination, The Putrid Cloister",
+      "goldCost": 900,
+      "weight": 17.13
     },
     {
       "id": 3089,
-      "name": "Luck Of The Vaal",
-      "reward": "Unique Vaal Gauntlets - Corrupted",
-      "stackSize": 1,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Lion",
+      "reward": "Lioneye Item",
+      "stackSize": 5,
+      "dropLocation": "Crater",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3090,
-      "name": "The Endurance",
-      "reward": "Vivid Crimson Jewel",
+      "name": "The Dragon",
+      "reward": "Coruscating Elixir",
       "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Caer Blaidd, Wolfpack's Den",
+      "goldCost": 110,
+      "weight": 9090.91
     },
     {
       "id": 3091,
-      "name": "The Penitent",
-      "reward": "Unique Unset Ring",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Rats",
+      "reward": "Rat's Nest",
+      "stackSize": 8,
+      "dropLocation": "Arsenal",
+      "goldCost": 40,
+      "weight": 25000
     },
     {
       "id": 3092,
-      "name": "The Wolf",
-      "reward": "Rigwald Item",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Risk",
+      "reward": "Ventor's Gamble",
+      "stackSize": 3,
+      "dropLocation": "Diviner's Strongbox, Izaro's Treasure",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3093,
-      "name": "Dialla's Subjugation",
-      "reward": "Support Gem - Quality 23%",
+      "name": "Tranquillity",
+      "reward": "Voltaxic Rift",
       "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Mesa",
+      "goldCost": 950,
+      "weight": 14.59
     },
     {
       "id": 3094,
-      "name": "The Calling",
-      "reward": "Beyond Item",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Her Mask",
+      "reward": "Sacrifice Fragment",
+      "stackSize": 4,
+      "dropLocation": "Vaal Temple, Vaults of Atziri",
+      "goldCost": 70,
+      "weight": 14285.71
     },
     {
       "id": 3095,
-      "name": "The Valkyrie",
-      "reward": "Nemesis Item",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Treasure Hunter",
+      "reward": "Vaults of Atziri",
+      "stackSize": 7,
+      "dropLocation": "Care Blaidd, Wolfpack's Den, Maze of the Minotaur",
+      "goldCost": 225,
+      "weight": 986.69
     },
     {
       "id": 3096,
-      "name": "The Formless Sea",
-      "reward": "Varunastra",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Earth Drinker",
+      "reward": "Granite Flask ",
+      "stackSize": 5,
+      "dropLocation": "Desert, Desert Spring",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3097,
-      "name": "The Oath",
-      "reward": "Death's Oath",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Wolf's Shadow",
+      "reward": "Hyaon's Fury",
+      "stackSize": 3,
+      "dropLocation": "Dark Forest",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3098,
-      "name": "The Scavenger",
-      "reward": "Carcass Jack",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Arena Champion",
+      "reward": "Tier 12 Map",
+      "stackSize": 10,
+      "dropLocation": "Arena, Canyon, Pit of the Chimera",
+      "goldCost": 55,
+      "weight": 18181.82
     },
     {
       "id": 3099,
-      "name": "Mawr Blaidd",
-      "reward": "Eyes of the Greatwolf",
-      "stackSize": 16,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Sephirot",
+      "reward": "10x Divine Orb",
+      "stackSize": 11,
+      "dropLocation": "Residence, \"Dominus, Ascendant\"",
+      "goldCost": 325,
+      "weight": 340.97
     },
     {
       "id": 3100,
-      "name": "The Porcupine",
-      "reward": "Six-Link Short Bow iLvl 50",
+      "name": "The Visionary",
+      "reward": "Lioneye's Vision",
       "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Arena, Pit, Pit of the Chimera",
+      "goldCost": 75,
+      "weight": 13333.33
     },
     {
       "id": 3101,
-      "name": "The Coming Storm",
-      "reward": "Lightning Coil",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Thunderous Skies",
+      "reward": "Storm Cloud",
+      "stackSize": 5,
+      "dropLocation": "Plateau, Tower",
+      "goldCost": 65,
+      "weight": 15384.62
     },
     {
       "id": 3102,
-      "name": "The Polymath",
-      "reward": "Astramentis",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Dying Anguish",
+      "reward": "19/19 Transfigured Gem",
+      "stackSize": 8,
+      "dropLocation": "Port, Promenade",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3103,
-      "name": "The Wolverine",
-      "reward": "Unique Claw - Corrupted",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Immortal",
+      "reward": "House of Mirrors",
+      "stackSize": 10,
+      "dropLocation": "The Hall of Grandmasters",
+      "goldCost": 825,
+      "weight": 22.16
     },
     {
       "id": 3104,
-      "name": "Mitts",
-      "reward": "Unique Gloves",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Throne",
+      "reward": "Kaom's Roots - Corrupted",
+      "stackSize": 2,
+      "dropLocation": "Infested Valley, Lair of the Hydra, Sulphur Vents",
+      "goldCost": 400,
+      "weight": 186.24
     },
     {
       "id": 3105,
-      "name": "The Wretched",
-      "reward": "Unique Belt",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Boundless Realms",
+      "reward": "Map",
+      "stackSize": 4,
+      "dropLocation": "Estuary",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3106,
-      "name": "The Wolven King's Bite",
-      "reward": "Rigwald's Quills",
+      "name": "The Devastator",
+      "reward": "Atziri's Disfavour - Corrupted",
       "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
+      "dropLocation": "Drop Disabled",
+      "goldCost": 1000000,
       "weight": 0
     },
     {
       "id": 3107,
-      "name": "The Standoff",
-      "reward": "Unique Rustic Sash",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Destined to Crumble",
+      "reward": "Rare Body Armour - iLvl 100",
+      "stackSize": 5,
+      "dropLocation": "Academy",
+      "goldCost": 15,
+      "weight": 66666.67
     },
     {
       "id": 3108,
-      "name": "The Forsaken",
-      "reward": "Umbilicus Immortalis",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Shard of Fate",
+      "reward": "Vivid Jewel",
+      "stackSize": 4,
+      "dropLocation": "Acton's Nightmare, Death and Taxes",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3109,
-      "name": "The Garish Power",
-      "reward": "Unique Jewel",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Heterochromia",
+      "reward": "Unique Two-Stone Ring",
+      "stackSize": 2,
+      "dropLocation": "Crater, Lava Lake, Theatre of Lies",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3110,
-      "name": "Lingering Remnants",
-      "reward": "Vaal Temple",
-      "stackSize": 16,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Rain Tempter",
+      "reward": "Tier 6 Map",
+      "stackSize": 9,
+      "dropLocation": "Orchard",
+      "goldCost": 55,
+      "weight": 18181.82
     },
     {
       "id": 3111,
-      "name": "The Spark And The Flame",
-      "reward": "Berek's Respite",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Void",
+      "reward": "Any Reward",
+      "stackSize": 1,
+      "dropLocation": "Any T17 Map",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3112,
-      "name": "The Saint's Treasure",
-      "reward": "2x Exalted Orb",
-      "stackSize": 10,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Tyrant",
+      "reward": "Merciless Weapon iLvl 100",
+      "stackSize": 9,
+      "dropLocation": "Arcade, Castle Ruins",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3113,
-      "name": "Call To The First Ones",
-      "reward": "Tier 1 Talisman - Corrupted",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Web",
+      "reward": "Weapon of Crafting",
+      "stackSize": 8,
+      "dropLocation": "Jungle Valley, Toxic Sewer",
+      "goldCost": 95,
+      "weight": 10526.32
     },
     {
       "id": 3114,
-      "name": "The Valley Of Steel Boxes",
-      "reward": "Monstrous Treasure (Prophecy)",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Harvester",
+      "reward": "The Harvest",
+      "stackSize": 11,
+      "dropLocation": "Olmec's Sanctum, Plateau",
+      "goldCost": 40,
+      "weight": 25000
     },
     {
       "id": 3115,
-      "name": "Might Is Right",
-      "reward": "Trypanon",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Lunaris Priestess",
+      "reward": "Sire of Shards",
+      "stackSize": 5,
+      "dropLocation": "Moon Temple",
+      "goldCost": 90,
+      "weight": 11111.11
     },
     {
       "id": 3116,
-      "name": "The Opulent",
-      "reward": "Rare Ring iLvl 100",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Emperor Of Purity",
+      "reward": "Six-Link Holy Chainmail - iLvl 60",
+      "stackSize": 7,
+      "dropLocation": "Death and Taxes, Overgrown Shrine",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3117,
-      "name": "Struck by Lightning",
-      "reward": "Electrocuting Jewellery iLvl 76",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Cursed King",
+      "reward": "Rigwald's Curse",
+      "stackSize": 8,
+      "dropLocation": "Dark Forest",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3118,
-      "name": "Atziri's Arsenal",
-      "reward": "Unique Weapon - Corrupted",
+      "name": "The Stormcaller",
+      "reward": "Agnerod Staff",
       "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Plateau, Tower",
+      "goldCost": 110,
+      "weight": 9090.91
     },
     {
       "id": 3119,
-      "name": "The Ruthless Ceinture",
-      "reward": "Meginord's Girdle",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Lysah's Respite",
+      "reward": "Unique Agate Amulet - Corrupted",
+      "stackSize": 6,
+      "dropLocation": "Lava Chamber, Whakawairua Tuahu",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3120,
-      "name": "No Traces",
-      "reward": "30x Orb of Scouring",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
-    },
-    {
-      "id": 3121,
-      "name": "The Realm",
-      "reward": "Portal Quality 1-20%",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Cartographer's Delight",
+      "reward": "Map Tier 5",
+      "stackSize": 3,
+      "dropLocation": "?",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3122,
-      "name": "The Eye Of The Dragon",
-      "reward": "Unique Jewel - Corrupted",
-      "stackSize": 10,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Lucky Deck",
+      "reward": "10x Stacked Deck",
+      "stackSize": 9,
+      "dropLocation": "Ziggurat",
+      "goldCost": 350,
+      "weight": 274.87
     },
     {
       "id": 3123,
-      "name": "The Blazing Fire",
-      "reward": "Chin Sol",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Light And Truth",
+      "reward": "Unique Crystal Sceptre",
+      "stackSize": 2,
+      "dropLocation": "Residence",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3124,
-      "name": "Left To Fate",
-      "reward": "Tier 16 Rare Map - Unidentified Corrupted",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
+      "name": "Luck Of The Vaal",
+      "reward": "Unique Vaal Gauntlets - Corrupted",
+      "stackSize": 1,
+      "dropLocation": "Drop Disabled",
+      "goldCost": 1000000,
       "weight": 0
     },
     {
       "id": 3125,
-      "name": "Birth Of The Three",
-      "reward": "The Goddess Bound",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Endurance",
+      "reward": "Vivid Crimson Jewel",
+      "stackSize": 4,
+      "dropLocation": "Flooded Mine",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3126,
-      "name": "The Insatiable",
-      "reward": "The Harvest - Corrupted",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Penitent",
+      "reward": "Unique Unset Ring",
+      "stackSize": 5,
+      "dropLocation": "Hallowed Ground, Lava Chamber",
+      "goldCost": 115,
+      "weight": 8695.65
     },
     {
       "id": 3127,
-      "name": "The Obscured",
-      "reward": "Breachstone",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Wolf",
+      "reward": "Rigwald Item",
+      "stackSize": 5,
+      "dropLocation": "Underground River",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3128,
-      "name": "The Rusted Bard",
-      "reward": "4x Tainted Mythic Orb",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Dialla's Subjugation",
+      "reward": "Support Gem - Quality 23%",
+      "stackSize": 7,
+      "dropLocation": "Park, Temple",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3129,
-      "name": "Forbidden Power",
-      "reward": "Balefire - Corrupted",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Calling",
+      "reward": "Beyond Item",
+      "stackSize": 6,
+      "dropLocation": "Beyond Demons, Hiveborn Monsters",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3130,
-      "name": "The Breach",
-      "reward": "Breach Item",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Valkyrie",
+      "reward": "Nemesis Item",
+      "stackSize": 8,
+      "dropLocation": "Female Rogue Exiles",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3131,
-      "name": "The Dreamer",
-      "reward": "Chayula Item ",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Formless Sea",
+      "reward": "Varunastra",
+      "stackSize": 7,
+      "dropLocation": "Shore",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3132,
-      "name": "The World Eater",
-      "reward": "Starforge",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Oath",
+      "reward": "Death's Oath",
+      "stackSize": 6,
+      "dropLocation": "Acid Caverns, Shipyard",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3133,
-      "name": "The Deceiver",
-      "reward": "Belt of the Deceiver - Corrupted",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Scavenger",
+      "reward": "Carcass Jack",
+      "stackSize": 8,
+      "dropLocation": "Channel",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3134,
-      "name": "Blessing Of God",
-      "reward": "Elreon's Jewellery - iLvl 85",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Mawr Blaidd",
+      "reward": "Eyes of the Greatwolf",
+      "stackSize": 16,
+      "dropLocation": "Arachnid Nest, Thicket",
+      "goldCost": 350,
+      "weight": 274.87
     },
     {
       "id": 3135,
-      "name": "The Puzzle",
-      "reward": "5x Breachstone Splinter",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Porcupine",
+      "reward": "Six-Link Short Bow iLvl 50",
+      "stackSize": 6,
+      "dropLocation": "Orchard",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3136,
-      "name": "The Witch",
-      "reward": "Kiara's Determination",
+      "name": "The Coming Storm",
+      "reward": "Lightning Coil",
       "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Infested Valley",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3137,
-      "name": "Immortal Resolve",
-      "reward": "Six-Linked Body Armour - Influenced",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Polymath",
+      "reward": "Astramentis",
+      "stackSize": 3,
+      "dropLocation": "Chambers of Impurity, Silo",
+      "goldCost": 375,
+      "weight": 224.83
     },
     {
       "id": 3138,
-      "name": "The Jeweller's Boon",
-      "reward": "Five-Linked Body Armour - Influenced",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Wolverine",
+      "reward": "Unique Claw - Corrupted",
+      "stackSize": 4,
+      "dropLocation": "Underground River",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3139,
-      "name": "The Darkest Dream",
-      "reward": "Severed in Sleep - Corrupted",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Mitts",
+      "reward": "Unique Gloves",
+      "stackSize": 5,
+      "dropLocation": "Frozen Cabins, Iceberg",
+      "goldCost": 10,
+      "weight": 100000
     },
     {
       "id": 3140,
-      "name": "The Master",
-      "reward": "Bisco's Collar",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Wretched",
+      "reward": "Unique Belt",
+      "stackSize": 6,
+      "dropLocation": "The Coward's Trial",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3141,
-      "name": "The Fathomless Depths",
-      "reward": "Lightpoacher",
+      "name": "The Wolven King's Bite",
+      "reward": "Rigwald's Quills",
       "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Dark Forest",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3142,
-      "name": "The Undaunted",
-      "reward": "Nemesis item - Corrupted",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Standoff",
+      "reward": "Unique Rustic Sash",
+      "stackSize": 3,
+      "dropLocation": "Forge of the Phoenix, Fortress, Silo",
+      "goldCost": 110,
+      "weight": 9090.91
     },
     {
       "id": 3143,
-      "name": "The Admirer",
-      "reward": "Atziri Item",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Forsaken",
+      "reward": "Umbilicus Immortalis",
+      "stackSize": 7,
+      "dropLocation": "Arachnid Nest, Citadel, Necropolis, Ziggurat",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3144,
-      "name": "The Sword King's Salute",
-      "reward": "Daresso's Salute",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Garish Power",
+      "reward": "Unique Jewel",
+      "stackSize": 4,
+      "dropLocation": "Death and Taxes, Overgrown Shrine",
+      "goldCost": 500,
+      "weight": 96.92
     },
     {
       "id": 3145,
-      "name": "The Army Of Blood",
-      "reward": "Bloodbond",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Lingering Remnants",
+      "reward": "Vaal Temple",
+      "stackSize": 16,
+      "dropLocation": "Ghetto, Precinct",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3146,
-      "name": "The Celestial Stone",
-      "reward": "Opal Ring iLvl 100 - Shaper",
-      "stackSize": 10,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Spark And The Flame",
+      "reward": "Berek's Respite",
+      "stackSize": 2,
+      "dropLocation": "Bone Crypt, Volcano",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3147,
-      "name": "Perfection",
-      "reward": "Rare Jewellery iLvl 100 - Shaper",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Saint's Treasure",
+      "reward": "2x Exalted Orb",
+      "stackSize": 10,
+      "dropLocation": "Precinct",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3148,
-      "name": "The Dreamland",
-      "reward": "Poorjoy's Asylum",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Call To The First Ones",
+      "reward": "Tier 1 Talisman - Corrupted",
+      "stackSize": 5,
+      "dropLocation": "Arachnid Nest, Dark Forest",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3149,
-      "name": "Harmony Of Souls",
-      "reward": "9x Shrieking Essence",
+      "name": "The Valley Of Steel Boxes",
+      "reward": "Monstrous Treasure (Prophecy)",
       "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
+      "dropLocation": "Drop Disabled",
+      "goldCost": 1000000,
       "weight": 0
     },
     {
       "id": 3150,
-      "name": "The Samurai's Eye",
-      "reward": "Watcher's Eye",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Might Is Right",
+      "reward": "Trypanon",
+      "stackSize": 9,
+      "dropLocation": "Cursed Crypt, Oba's Cursed Trove, Ziggurat",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3151,
-      "name": "The Hale Heart",
-      "reward": "Rare item iLvl 100 - Elder",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Opulent",
+      "reward": "Rare Ring iLvl 100",
+      "stackSize": 5,
+      "dropLocation": "Ivory Temple, Sanctuary",
+      "goldCost": 55,
+      "weight": 18181.82
     },
     {
       "id": 3152,
-      "name": "The Mayor",
-      "reward": "The Light of Meaning",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Struck by Lightning",
+      "reward": "Electrocuting Jewellery iLvl 76",
+      "stackSize": 3,
+      "dropLocation": "Promenade",
+      "goldCost": 95,
+      "weight": 10526.32
     },
     {
       "id": 3153,
-      "name": "The Undisputed",
-      "reward": "Merciless Vaal Axe iLvl 100 - Elder",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Atziri's Arsenal",
+      "reward": "Unique Weapon - Corrupted",
+      "stackSize": 4,
+      "dropLocation": "Vaal Pyramid",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3154,
-      "name": "The Rite of Elements",
-      "reward": "21/0 Golem Gem",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Ruthless Ceinture",
+      "reward": "Meginord's Girdle",
+      "stackSize": 7,
+      "dropLocation": "Crimson Township, Ramparts",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3155,
-      "name": "Three Voices",
-      "reward": "3x Essence",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "No Traces",
+      "reward": "30x Orb of Scouring",
+      "stackSize": 9,
+      "dropLocation": "Sepulchre, Ziggurat",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3156,
-      "name": "The Professor",
-      "reward": "The Putrid Cloister",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Realm",
+      "reward": "Portal Quality 1-20%",
+      "stackSize": 5,
+      "dropLocation": "Hiveborn Monsters",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3157,
-      "name": "The Beast",
-      "reward": "Belly of the Beast",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Eye Of The Dragon",
+      "reward": "Unique Jewel - Corrupted",
+      "stackSize": 10,
+      "dropLocation": "Sulphur Vents, Toxic Sewer",
+      "goldCost": 575,
+      "weight": 64.28
     },
     {
       "id": 3158,
-      "name": "The Innocent",
-      "reward": "40x Orb of Regret",
-      "stackSize": 10,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Blazing Fire",
+      "reward": "Chin Sol",
+      "stackSize": 6,
+      "dropLocation": "Crimson Temple",
+      "goldCost": 55,
+      "weight": 18181.82
     },
     {
       "id": 3159,
-      "name": "The Wilted Rose",
-      "reward": "21/0 Aura Gem",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Left To Fate",
+      "reward": "Tier 16 Rare Map - Unidentified Corrupted",
+      "stackSize": 4,
+      "dropLocation": "Ramparts, Underground River",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3160,
-      "name": "The Endless Darkness",
-      "reward": "Voidforge",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
+      "name": "Birth Of The Three",
+      "reward": "The Goddess Bound",
+      "stackSize": 3,
+      "dropLocation": "Drop Disabled",
+      "goldCost": 1000000,
       "weight": 0
     },
     {
       "id": 3161,
-      "name": "Beauty Through Death",
-      "reward": "Atziri's Reflection",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Insatiable",
+      "reward": "The Harvest - Corrupted",
+      "stackSize": 3,
+      "dropLocation": "Abomination, Phantasmagoria",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3162,
-      "name": "The Price of Protection",
-      "reward": "Elder Guardian T14 to T16 - 8mod",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
+      "name": "The Obscured",
+      "reward": "Breachstone",
+      "stackSize": 7,
+      "dropLocation": "Drop Disabled",
+      "goldCost": 10000000,
       "weight": 0
     },
     {
       "id": 3163,
-      "name": "Boon of the First Ones",
-      "reward": "Bestiary Item",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Rusted Bard",
+      "reward": "4x Tainted Mythic Orb",
+      "stackSize": 9,
+      "dropLocation": "The Vinktar Square",
+      "goldCost": 425,
+      "weight": 156.01
     },
     {
       "id": 3164,
-      "name": "The Twilight Moon",
-      "reward": "The Twilight Temple",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Forbidden Power",
+      "reward": "Balefire - Corrupted",
+      "stackSize": 4,
+      "dropLocation": "Temple",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3165,
-      "name": "The Cacophony",
-      "reward": "3x Deafening Essence",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Breach",
+      "reward": "Breach Item",
+      "stackSize": 4,
+      "dropLocation": "\"Null Portals\"",
+      "goldCost": 350,
+      "weight": 274.87
     },
     {
       "id": 3166,
-      "name": "The Sacrifice",
-      "reward": "Six-Link Sacrificial Garb iLvl 100",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Dreamer",
+      "reward": "Chayula Item ",
+      "stackSize": 6,
+      "dropLocation": "\"Agent of the Void\"",
+      "goldCost": 425,
+      "weight": 156.01
     },
     {
       "id": 3167,
-      "name": "A Dab Of Ink",
-      "reward": "The Poet's Pen",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The World Eater",
+      "reward": "Starforge",
+      "stackSize": 8,
+      "dropLocation": "\"Ghorr, the Grasping Maw\"",
+      "goldCost": 925,
+      "weight": 15.79
     },
     {
       "id": 3168,
-      "name": "The Nurse",
-      "reward": "The Doctor",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Deceiver",
+      "reward": "Belt of the Deceiver - Corrupted",
+      "stackSize": 4,
+      "dropLocation": "Arena, Canyon, Pit of the Chimera",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3169,
-      "name": "The Master Artisan",
-      "reward": "20x Quality Currency",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
+      "name": "Blessing Of God",
+      "reward": "Elreon's Jewellery - iLvl 85",
+      "stackSize": 3,
+      "dropLocation": "Drop Disabled",
+      "goldCost": 1000000,
       "weight": 0
     },
     {
       "id": 3170,
-      "name": "The Life Thief",
-      "reward": "Zerphi's Heart",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
+      "name": "The Puzzle",
+      "reward": "5x Breachstone Splinter",
+      "stackSize": 5,
+      "dropLocation": "Drop Disabled",
+      "goldCost": 1000000,
       "weight": 0
     },
     {
       "id": 3171,
-      "name": "The Seeker",
-      "reward": "3x Orb of Annulment",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Witch",
+      "reward": "Kiara's Determination",
+      "stackSize": 8,
+      "dropLocation": "The Putrid Cloister",
+      "goldCost": 40,
+      "weight": 25000
     },
     {
       "id": 3172,
-      "name": "The Messenger",
-      "reward": "Harbinger Piece",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Immortal Resolve",
+      "reward": "Six-Linked Body Armour - Influenced",
+      "stackSize": 6,
+      "dropLocation": "Abomination, The Putrid Cloister",
+      "goldCost": 225,
+      "weight": 986.69
     },
     {
       "id": 3173,
-      "name": "The Mad King",
-      "reward": "Vaal Aspect",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Jeweller's Boon",
+      "reward": "Five-Linked Body Armour - Influenced",
+      "stackSize": 5,
+      "dropLocation": "Citadel, Grotto, Primordial Blocks, Ziggurat",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3174,
-      "name": "Boon of Justice",
-      "reward": "Offering to the Goddess",
+      "name": "The Darkest Dream",
+      "reward": "Severed in Sleep - Corrupted",
       "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Toxic Sewer",
+      "goldCost": 325,
+      "weight": 340.97
     },
     {
       "id": 3175,
-      "name": "The Journey",
-      "reward": "Harbinger's Orb",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
+      "name": "The Master",
+      "reward": "Bisco's Collar",
+      "stackSize": 4,
+      "dropLocation": "Drop Disabled",
+      "goldCost": 1000000,
       "weight": 0
     },
     {
       "id": 3176,
-      "name": "Arrogance of the Vaal",
-      "reward": "Unique Item - Two-Implicit",
+      "name": "The Fathomless Depths",
+      "reward": "Lightpoacher",
       "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Marshes, Mud Geyser",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3177,
-      "name": "The Landing",
-      "reward": "The Beachhead Tier 15 - Corrupted",
+      "name": "The Undaunted",
+      "reward": "Nemesis item - Corrupted",
       "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Acid Caverns, Precinct",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3178,
-      "name": "The Mountain",
-      "reward": "Jewel of Potency",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Admirer",
+      "reward": "Atziri Item",
+      "stackSize": 9,
+      "dropLocation": "Maze, Vaal Temple",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3179,
-      "name": "Seven Years Bad Luck",
-      "reward": "Mirror Shard",
-      "stackSize": 13,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Sword King's Salute",
+      "reward": "Daresso's Salute",
+      "stackSize": 7,
+      "dropLocation": "Colosseum, Pit of the Chimera",
+      "goldCost": 45,
+      "weight": 22222.22
     },
     {
       "id": 3180,
-      "name": "The Golden Era",
-      "reward": "Flaring Eclipse Staff iLvl 100",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Army Of Blood",
+      "reward": "Bloodbond",
+      "stackSize": 6,
+      "dropLocation": "Crimson Temple, The Twilight Temple",
+      "goldCost": 75,
+      "weight": 13333.33
     },
     {
       "id": 3181,
-      "name": "Monochrome",
-      "reward": "Valdo's Puzzle Box",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Celestial Stone",
+      "reward": "Opal Ring iLvl 100 - Shaper",
+      "stackSize": 10,
+      "dropLocation": "Jeweller's Strongboxes",
+      "goldCost": 700,
+      "weight": 36.01
     },
     {
       "id": 3182,
-      "name": "Dark Temptation",
-      "reward": "Obliteration",
+      "name": "Perfection",
+      "reward": "Rare Jewellery iLvl 100 - Shaper",
       "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Shaper Guardian",
+      "goldCost": 650,
+      "weight": 44.8
     },
     {
       "id": 3183,
-      "name": "Alone in the Darkness",
-      "reward": "Unique Delve Item",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Dreamland",
+      "reward": "Poorjoy's Asylum",
+      "stackSize": 8,
+      "dropLocation": "Cartographer's Strongboxes",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3184,
-      "name": "Sambodhi's Vow",
-      "reward": "Mortal Fragment",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Harmony Of Souls",
+      "reward": "9x Shrieking Essence",
+      "stackSize": 9,
+      "dropLocation": "Abomination, Cells, Waste Pool",
+      "goldCost": 375,
+      "weight": 224.83
     },
     {
       "id": 3185,
-      "name": "The Lord of Celebration",
-      "reward": "Sceptre of Celebration - Shaper",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Samurai's Eye",
+      "reward": "Watcher's Eye",
+      "stackSize": 3,
+      "dropLocation": "Ziggurat",
+      "goldCost": 525,
+      "weight": 83.99
     },
     {
       "id": 3186,
-      "name": "Vanity",
-      "reward": "Tabula Rasa - Corrupted",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Hale Heart",
+      "reward": "Rare item iLvl 100 - Elder",
+      "stackSize": 4,
+      "dropLocation": "Elder Guardian",
+      "goldCost": 650,
+      "weight": 44.8
     },
     {
       "id": 3187,
-      "name": "Imperial Legacy",
-      "reward": "Six-Link Imperial Bow iLvl 100",
-      "stackSize": 22,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Mayor",
+      "reward": "The Light of Meaning",
+      "stackSize": 5,
+      "dropLocation": "Alleyways",
+      "goldCost": 425,
+      "weight": 156.01
     },
     {
       "id": 3188,
-      "name": "Burning Blood",
-      "reward": "Xoph's Blood - Corrupted",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Undisputed",
+      "reward": "Merciless Vaal Axe iLvl 100 - Elder",
+      "stackSize": 8,
+      "dropLocation": "\"Chayula, Who Dreamt\"",
+      "goldCost": 825,
+      "weight": 22.16
     },
     {
       "id": 3189,
-      "name": "The Primordial",
-      "reward": "Unique Jewel - Primordial",
+      "name": "The Rite of Elements",
+      "reward": "21/0 Golem Gem",
       "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Grotto, Waterways",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3190,
-      "name": "Echoes Of Love",
-      "reward": "Fidelitas' Spike - Two-Implicit",
+      "name": "Three Voices",
+      "reward": "3x Essence",
       "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "City Square, Racecourse, Vaal Temple",
+      "goldCost": 55,
+      "weight": 18181.82
     },
     {
       "id": 3191,
-      "name": "Thirst For Knowledge",
-      "reward": "Gluttony",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Professor",
+      "reward": "The Putrid Cloister",
+      "stackSize": 4,
+      "dropLocation": "Silo",
+      "goldCost": 400,
+      "weight": 186.24
     },
     {
       "id": 3192,
-      "name": "Alluring Bounty",
-      "reward": "10x Exalted Orb",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Beast",
+      "reward": "Belly of the Beast",
+      "stackSize": 6,
+      "dropLocation": "The Belly of the Beast",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3193,
-      "name": "The Fool",
-      "reward": "20x Orb of Chance",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Innocent",
+      "reward": "40x Orb of Regret",
+      "stackSize": 10,
+      "dropLocation": "Crimson Temple, Sanctuary, Theatre of Lies",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3194,
-      "name": "Pride Of The First Ones",
-      "reward": "Farrul's Fur",
+      "name": "The Wilted Rose",
+      "reward": "21/0 Aura Gem",
       "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Courtyard",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3195,
-      "name": "The Deep Ones",
-      "reward": "Tidebreaker",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Endless Darkness",
+      "reward": "Voidforge",
+      "stackSize": 9,
+      "dropLocation": "\"Harbinger Portals\"",
+      "goldCost": 925,
+      "weight": 15.79
     },
     {
       "id": 3196,
-      "name": "The Archmage's Right Hand",
-      "reward": "Glyphic Prophecy Wand iLvl 100",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Beauty Through Death",
+      "reward": "Atziri's Reflection",
+      "stackSize": 5,
+      "dropLocation": "Vaal Temple",
+      "goldCost": 825,
+      "weight": 22.16
     },
     {
       "id": 3197,
-      "name": "Dark Dreams",
-      "reward": "Rare Bone Helmet - Elder ",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Price of Protection",
+      "reward": "Elder Guardian T14 to T16 - 8mod",
+      "stackSize": 5,
+      "dropLocation": "Invasion Bosses, Vaal Side Area Bosses",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3198,
-      "name": "Buried Treasure",
-      "reward": "Sulphite Scarab",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Boon of the First Ones",
+      "reward": "Bestiary Item",
+      "stackSize": 6,
+      "dropLocation": "Pit of the Chimera",
+      "goldCost": 225,
+      "weight": 986.69
     },
     {
       "id": 3199,
-      "name": "Demigod's Wager",
-      "reward": "Orb of Annulment ",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Twilight Moon",
+      "reward": "The Twilight Temple",
+      "stackSize": 6,
+      "dropLocation": "Moon Temple, The Twilight Temple",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3200,
-      "name": "The Old Man",
-      "reward": "Rare Fishing Rod - Two-Implicit",
-      "stackSize": 12,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Cacophony",
+      "reward": "3x Deafening Essence",
+      "stackSize": 8,
+      "dropLocation": "Cemetery, Sepulchre",
+      "goldCost": 375,
+      "weight": 224.83
     },
     {
       "id": 3201,
-      "name": "Nook's Crown",
-      "reward": "Rare Bone Helmet iLvl 100 - Elder",
+      "name": "The Sacrifice",
+      "reward": "Six-Link Sacrificial Garb iLvl 100",
       "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "The Temple of Atzoatl",
+      "goldCost": 650,
+      "weight": 44.8
     },
     {
       "id": 3202,
-      "name": "The Side Quest",
-      "reward": "20x Scouting Report",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "A Dab Of Ink",
+      "reward": "The Poet's Pen",
+      "stackSize": 9,
+      "dropLocation": "Museum",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3203,
-      "name": "The Price Of Loyalty",
-      "reward": "Skin of the Loyal iLvl 25 - Two-Implicit",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Nurse",
+      "reward": "The Doctor",
+      "stackSize": 8,
+      "dropLocation": "Abomination, Cells",
+      "goldCost": 450,
+      "weight": 131.98
     },
     {
       "id": 3204,
-      "name": "The Heroic Shot",
-      "reward": "17x Chromatic Orb",
-      "stackSize": 1,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Master Artisan",
+      "reward": "20x Quality Currency",
+      "stackSize": 5,
+      "dropLocation": "Artisan's Strongboxes",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3205,
-      "name": "Remembrance",
-      "reward": "Precursor's Emblem - Corrupted",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Life Thief",
+      "reward": "Zerphi's Heart",
+      "stackSize": 6,
+      "dropLocation": "Lookout",
+      "goldCost": 575,
+      "weight": 64.28
     },
     {
       "id": 3206,
-      "name": "More Is Never Enough",
-      "reward": "4x Scarab",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Seeker",
+      "reward": "3x Orb of Annulment",
+      "stackSize": 9,
+      "dropLocation": "The Temple of Atzoatl",
+      "goldCost": 325,
+      "weight": 340.97
     },
     {
       "id": 3207,
-      "name": "Vile Power",
-      "reward": "Doomfletch",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Messenger",
+      "reward": "Harbinger Piece",
+      "stackSize": 4,
+      "dropLocation": "Beach",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3208,
-      "name": "The Bargain",
-      "reward": "Flawless Breachstone",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Mad King",
+      "reward": "Vaal Aspect",
+      "stackSize": 7,
+      "dropLocation": "Colosseum, Crimson Temple",
+      "goldCost": 300,
+      "weight": 430.11
     },
     {
       "id": 3209,
-      "name": "Azyran's Reward",
-      "reward": "Unique Prismatic Jewel - Corrupted",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Boon of Justice",
+      "reward": "Offering to the Goddess",
+      "stackSize": 6,
+      "dropLocation": "Chateau",
+      "goldCost": 85,
+      "weight": 11764.71
     },
     {
       "id": 3210,
-      "name": "The Skeleton",
-      "reward": "1/23 Summon Skeletons",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Journey",
+      "reward": "Harbinger's Orb",
+      "stackSize": 3,
+      "dropLocation": "Estuary",
+      "goldCost": 225,
+      "weight": 986.69
     },
     {
       "id": 3211,
-      "name": "The Eye Of Terror",
-      "reward": "Chayula's Flawless Breachstone",
+      "name": "Arrogance of the Vaal",
+      "reward": "Unique Item - Two-Implicit",
       "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Maze, Vaal Pyramid",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3212,
-      "name": "The Demon",
-      "reward": "Headhunter Double-Implicit",
-      "stackSize": 10,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Landing",
+      "reward": "The Beachhead Tier 15 - Corrupted",
+      "stackSize": 5,
+      "dropLocation": "Mao Kun, Strand",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3213,
-      "name": "Akil's Prophecy",
-      "reward": "Unique Elegant Round Shield - Two-Implicit",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Mountain",
+      "reward": "Jewel of Potency",
+      "stackSize": 6,
+      "dropLocation": "Frozen Cabins, Iceberg",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3214,
-      "name": "The Damned",
-      "reward": "Soul Ripper",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Seven Years Bad Luck",
+      "reward": "Mirror Shard",
+      "stackSize": 13,
+      "dropLocation": "Defiled Cathedral, Lookout, Theatre of Lies",
+      "goldCost": 550,
+      "weight": 73.26
     },
     {
       "id": 3215,
-      "name": "Void Of The Elements",
-      "reward": "Overpowering Opal Ring iLvl 100 - Elder",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Golden Era",
+      "reward": "Flaring Eclipse Staff iLvl 100",
+      "stackSize": 7,
+      "dropLocation": "Poorjoy's Asylum",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3216,
-      "name": "The Deal",
-      "reward": "Cartography Scarab",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Monochrome",
+      "reward": "Valdo's Puzzle Box",
+      "stackSize": 3,
+      "dropLocation": "\"Incarnation of Neglect\"",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3217,
-      "name": "The Wolf's Legacy",
-      "reward": "Vaults of Atziri",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Dark Temptation",
+      "reward": "Obliteration",
+      "stackSize": 5,
+      "dropLocation": "The Azurite Mine",
+      "goldCost": 65,
+      "weight": 15384.62
     },
     {
       "id": 3218,
-      "name": "Baited Expectations",
-      "reward": "Fishing Item",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Alone in the Darkness",
+      "reward": "Unique Delve Item",
+      "stackSize": 5,
+      "dropLocation": "\"Stygian Spire\" , Abyssal Trove",
+      "goldCost": 100,
+      "weight": 10000
     },
     {
       "id": 3219,
-      "name": "Succor Of The Sinless",
-      "reward": "Bottled Faith",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Sambodhi's Vow",
+      "reward": "Mortal Fragment",
+      "stackSize": 3,
+      "dropLocation": "\"Immortal Syndicate\"",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3220,
-      "name": "Underground Forest",
-      "reward": "10x Grand Eldritch Ichor",
+      "name": "The Lord of Celebration",
+      "reward": "Sceptre of Celebration - Shaper",
       "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Palace, Sanctuary",
+      "goldCost": 225,
+      "weight": 986.69
     },
     {
       "id": 3221,
-      "name": "The Escape",
-      "reward": "Seven-League Step",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Vanity",
+      "reward": "Tabula Rasa - Corrupted",
+      "stackSize": 9,
+      "dropLocation": "\"Vaal Vessels\"",
+      "goldCost": 225,
+      "weight": 986.69
     },
     {
       "id": 3222,
-      "name": "Deathly Designs",
-      "reward": "21/23 Trap Gem",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Imperial Legacy",
+      "reward": "Six-Link Imperial Bow iLvl 100",
+      "stackSize": 22,
+      "dropLocation": "Desert Spring, Pillars of Arun",
+      "goldCost": 55,
+      "weight": 18181.82
     },
     {
       "id": 3223,
-      "name": "The Chosen",
-      "reward": "Skin of the Lords - Corrupted",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Burning Blood",
+      "reward": "Xoph's Blood - Corrupted",
+      "stackSize": 6,
+      "dropLocation": "Forge of the Phoenix, Fortress, Lava Lake, Lighthouse",
+      "goldCost": 1050,
+      "weight": 10.85
     },
     {
       "id": 3224,
-      "name": "Cameria's Cut",
-      "reward": "Scarab",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Primordial",
+      "reward": "Unique Jewel - Primordial",
+      "stackSize": 5,
+      "dropLocation": "Coves",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3225,
-      "name": "Divine Justice",
-      "reward": "Grand Spectrum - Corrupted ",
-      "stackSize": 1,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Echoes Of Love",
+      "reward": "Fidelitas' Spike - Two-Implicit",
+      "stackSize": 3,
+      "dropLocation": "Arachnid Tomb",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3226,
-      "name": "The Fishmonger",
-      "reward": "Albino Rhoa Feather",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Thirst For Knowledge",
+      "reward": "Gluttony",
+      "stackSize": 5,
+      "dropLocation": "Academy",
+      "goldCost": 90,
+      "weight": 11111.11
     },
     {
       "id": 3227,
-      "name": "The Bones",
-      "reward": "21/0 Vaal Summon Skeletons",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Alluring Bounty",
+      "reward": "10x Exalted Orb",
+      "stackSize": 7,
+      "dropLocation": "The Alluring Abyss, The Apex of Sacrifice",
+      "goldCost": 375,
+      "weight": 224.83
     },
     {
       "id": 3228,
-      "name": "Friendship",
-      "reward": "Aul's Uprising",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Fool",
+      "reward": "20x Orb of Chance",
+      "stackSize": 4,
+      "dropLocation": "\"Immortal Syndicate\"",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3229,
-      "name": "The Craving",
-      "reward": "Unending Hunger",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Pride Of The First Ones",
+      "reward": "Farrul's Fur",
+      "stackSize": 7,
+      "dropLocation": "Tropical Island",
+      "goldCost": 500,
+      "weight": 96.92
     },
     {
       "id": 3230,
-      "name": "Etched In Blood",
-      "reward": "Rigwald's Quills - Two-Implicit",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Deep Ones",
+      "reward": "Tidebreaker",
+      "stackSize": 5,
+      "dropLocation": "Whakawairua Tuahu",
+      "goldCost": 400,
+      "weight": 186.24
     },
     {
       "id": 3231,
-      "name": "Squandered Prosperity",
-      "reward": "The Light of Meaning - Corrupted",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Archmage's Right Hand",
+      "reward": "Glyphic Prophecy Wand iLvl 100",
+      "stackSize": 7,
+      "dropLocation": "Hive Colony",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3232,
-      "name": "The Strategist",
-      "reward": "Inspired Learning - Corrupted",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Dark Dreams",
+      "reward": "Rare Bone Helmet - Elder ",
+      "stackSize": 4,
+      "dropLocation": "\"Minara Anemina\"",
+      "goldCost": 500,
+      "weight": 96.92
     },
     {
       "id": 3233,
-      "name": "The Cheater",
-      "reward": "6/20 Awakened Support Gem",
+      "name": "Buried Treasure",
+      "reward": "Sulphite Scarab",
       "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Excavation",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3234,
-      "name": "The Tinkerer's Table",
-      "reward": "5x Fossil",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Demigod's Wager",
+      "reward": "Orb of Annulment ",
+      "stackSize": 7,
+      "dropLocation": "Crimson Township, Defiled Cathedral, Sanctuary",
+      "goldCost": 225,
+      "weight": 986.69
     },
     {
       "id": 3235,
-      "name": "The Easy Stroll",
-      "reward": "8mod Tier 15 Rare Map",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Old Man",
+      "reward": "Rare Fishing Rod - Two-Implicit",
+      "stackSize": 12,
+      "dropLocation": "Forking River, Lava Chamber",
+      "goldCost": 1600,
+      "weight": 3.1
     },
     {
       "id": 3236,
-      "name": "The Progeny of Lunaris",
-      "reward": "Dying Sun",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Nook's Crown",
+      "reward": "Rare Bone Helmet iLvl 100 - Elder",
+      "stackSize": 4,
+      "dropLocation": "\"Catarina, Master of Undeath\"",
+      "goldCost": 925,
+      "weight": 15.79
     },
     {
       "id": 3237,
-      "name": "The Eldritch Decay",
-      "reward": "Uber Elder Fragment",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Side Quest",
+      "reward": "20x Scouting Report",
+      "stackSize": 5,
+      "dropLocation": "Channel, Iceberg, Courtyard of Wasting",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3238,
-      "name": "Council of Cats",
-      "reward": "Farrul Item",
+      "name": "The Price Of Loyalty",
+      "reward": "Skin of the Loyal iLvl 25 - Two-Implicit",
       "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "\"Zilquapa, Architect of the Breach\"",
+      "goldCost": 1600,
+      "weight": 3.1
     },
     {
       "id": 3239,
-      "name": "The Tumbleweed",
-      "reward": "Diamond Ring of Redemption iLvl 100 - Redeemer",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Heroic Shot",
+      "reward": "17x Chromatic Orb",
+      "stackSize": 1,
+      "dropLocation": "Arcanist's Strongboxes",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3240,
-      "name": "The Hive Of Knowledge",
-      "reward": "Machina Mitts - Two-Implicit ",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Remembrance",
+      "reward": "Precursor's Emblem - Corrupted",
+      "stackSize": 8,
+      "dropLocation": "Delve City",
+      "goldCost": 650,
+      "weight": 44.8
     },
     {
       "id": 3241,
-      "name": "Gift Of Asenath",
-      "reward": "Asenath's Gentle Touch - Two-Implicit",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "More Is Never Enough",
+      "reward": "4x Scarab",
+      "stackSize": 7,
+      "dropLocation": "Summit",
+      "goldCost": 30,
+      "weight": 33333.33
     },
     {
       "id": 3242,
-      "name": "A Note In The Wind",
-      "reward": "Asenath's Mark",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Vile Power",
+      "reward": "Doomfletch",
+      "stackSize": 5,
+      "dropLocation": "Abomination, Acid Caverns",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3243,
-      "name": "The Greatest Intentions",
-      "reward": "The Saviour - Two-Implicit",
-      "stackSize": 10,
-      "dropLocation": "",
-      "goldCost": 0,
+      "name": "The Bargain",
+      "reward": "Flawless Breachstone",
+      "stackSize": 5,
+      "dropLocation": "Drop Disabled",
+      "goldCost": 1000000,
       "weight": 0
     },
     {
       "id": 3244,
-      "name": "The White Knight",
-      "reward": "Six-Link Astral Plate iLvl 100 - Crusader",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Azyran's Reward",
+      "reward": "Unique Prismatic Jewel - Corrupted",
+      "stackSize": 9,
+      "dropLocation": "Racecourse",
+      "goldCost": 300,
+      "weight": 430.11
     },
     {
       "id": 3245,
-      "name": "Prometheus' Armoury",
-      "reward": "Rare One-Hand Weapon iLvl 100 - Double-Influenced",
+      "name": "The Skeleton",
+      "reward": "1/23 Summon Skeletons",
       "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Acton's Nightmare, The Coward's Trial",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3246,
-      "name": "The Sustenance",
-      "reward": "Energy From Within - Two-Implicit",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
+      "name": "The Eye Of Terror",
+      "reward": "Chayula's Flawless Breachstone",
+      "stackSize": 8,
+      "dropLocation": "Drop Disabled",
+      "goldCost": 1000000,
       "weight": 0
     },
     {
       "id": 3247,
-      "name": "Peaceful Moments",
-      "reward": "Timeless Jewel",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Demon",
+      "reward": "Headhunter Double-Implicit",
+      "stackSize": 10,
+      "dropLocation": "Belfry, Lava Lake",
+      "goldCost": 1850,
+      "weight": 2.01
     },
     {
       "id": 3248,
-      "name": "The Awakened",
-      "reward": "Rare Jewellery iLvl 86 - Double-Influenced",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Akil's Prophecy",
+      "reward": "Unique Elegant Round Shield - Two-Implicit",
+      "stackSize": 3,
+      "dropLocation": "Architects from Temporal Incursion",
+      "goldCost": 400,
+      "weight": 186.24
     },
     {
       "id": 3249,
-      "name": "A Familiar Call",
-      "reward": "Magic Jewellery iLvl 100 - Shaper/Hunter",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Damned",
+      "reward": "Soul Ripper",
+      "stackSize": 6,
+      "dropLocation": "Maze, Vaal Temple",
+      "goldCost": 775,
+      "weight": 26.66
     },
     {
       "id": 3250,
-      "name": "The Long Con",
-      "reward": "Elderslayer's Exalted Orb",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Void Of The Elements",
+      "reward": "Overpowering Opal Ring iLvl 100 - Elder",
+      "stackSize": 3,
+      "dropLocation": "\"The Elder\"",
+      "goldCost": 875,
+      "weight": 18.62
     },
     {
       "id": 3251,
-      "name": "The Gulf",
-      "reward": "Thread of Hope - Two-Implicit",
+      "name": "The Deal",
+      "reward": "Cartography Scarab",
       "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "\"Cameria the Coldblooded\"",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3252,
-      "name": "The Bitter Blossom",
-      "reward": "21/23 Chaos Gem",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Wolf's Legacy",
+      "reward": "Vaults of Atziri",
+      "stackSize": 4,
+      "dropLocation": "Izaro's Treasure",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3253,
-      "name": "Triskaidekaphobia",
-      "reward": "Rare Map Tier 13 Quality 13% 8mod 100% Delirious",
-      "stackSize": 13,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Baited Expectations",
+      "reward": "Fishing Item",
+      "stackSize": 8,
+      "dropLocation": "Desert, Pillars of Arun",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3254,
-      "name": "Unrequited Love",
-      "reward": "19x Mirror Shard",
-      "stackSize": 16,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Succor Of The Sinless",
+      "reward": "Bottled Faith",
+      "stackSize": 6,
+      "dropLocation": "Sanctuary, \"Baran, the Crusader\"",
+      "goldCost": 775,
+      "weight": 26.66
     },
     {
       "id": 3255,
-      "name": "The Cache",
-      "reward": "Unique Jewellery",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Underground Forest",
+      "reward": "10x Grand Eldritch Ichor",
+      "stackSize": 4,
+      "dropLocation": "Bone Crypt",
+      "goldCost": 350,
+      "weight": 274.87
     },
     {
       "id": 3256,
-      "name": "The Academic",
-      "reward": "Inspired Learning",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Escape",
+      "reward": "Seven-League Step",
+      "stackSize": 5,
+      "dropLocation": "\"It That Was Tul\" , \"It That Was Esh\"",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3257,
-      "name": "Desecrated Virtue",
-      "reward": "Awakened Support Gem 6/23",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Deathly Designs",
+      "reward": "21/23 Trap Gem",
+      "stackSize": 7,
+      "dropLocation": "\"Ash Lessard\"",
+      "goldCost": 375,
+      "weight": 224.83
     },
     {
       "id": 3258,
-      "name": "Brother's Stash",
-      "reward": "5x Exalted Orb",
-      "stackSize": 1,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Chosen",
+      "reward": "Skin of the Lords - Corrupted",
+      "stackSize": 5,
+      "dropLocation": "Hiveborn Monsters",
+      "goldCost": 1250,
+      "weight": 6.46
     },
     {
       "id": 3259,
-      "name": "Unchained",
-      "reward": "Facebreaker - Two-Implicit",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Cameria's Cut",
+      "reward": "Scarab",
+      "stackSize": 2,
+      "dropLocation": "\"Cameria the Coldblooded\"",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3260,
-      "name": "The Unexpected Prize",
-      "reward": "Attribute Transforming Jewel - Corrupted",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Divine Justice",
+      "reward": "Grand Spectrum - Corrupted ",
+      "stackSize": 1,
+      "dropLocation": "Armourer's Strongbox",
+      "goldCost": 1850,
+      "weight": 2.01
     },
     {
       "id": 3261,
-      "name": "Cursed Words",
-      "reward": "Maw of Mischief",
-      "stackSize": 13,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Fishmonger",
+      "reward": "Albino Rhoa Feather",
+      "stackSize": 4,
+      "dropLocation": "Forking River, Tropical Island",
+      "goldCost": 825,
+      "weight": 22.16
     },
     {
       "id": 3262,
-      "name": "The Journalist",
-      "reward": "Rare Helmet - Double-Veiled",
-      "stackSize": 10,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Bones",
+      "reward": "21/0 Vaal Summon Skeletons",
+      "stackSize": 6,
+      "dropLocation": "\"Minara Anemina\"",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3263,
-      "name": "Haunting Shadows",
-      "reward": "Metamorph Item",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Friendship",
+      "reward": "Aul's Uprising",
+      "stackSize": 3,
+      "dropLocation": "Flooded Mine",
+      "goldCost": 550,
+      "weight": 73.26
     },
     {
       "id": 3264,
-      "name": "Acclimatisation",
-      "reward": "20x Orb of Alteration",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Craving",
+      "reward": "Unending Hunger",
+      "stackSize": 4,
+      "dropLocation": "Cursed Crypt",
+      "goldCost": 500,
+      "weight": 96.92
     },
     {
       "id": 3265,
-      "name": "The Whiteout",
-      "reward": "Cospri's Malice",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Etched In Blood",
+      "reward": "Rigwald's Quills - Two-Implicit",
+      "stackSize": 9,
+      "dropLocation": "Underground River",
+      "goldCost": 700,
+      "weight": 36.01
     },
     {
       "id": 3266,
-      "name": "Society's Remorse",
-      "reward": "10x Orb of Alteration",
-      "stackSize": 1,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Squandered Prosperity",
+      "reward": "The Light of Meaning - Corrupted",
+      "stackSize": 5,
+      "dropLocation": "Mao Kun",
+      "goldCost": 675,
+      "weight": 40.09
     },
     {
       "id": 3267,
-      "name": "Dying Light",
-      "reward": "Rare Diamond Ring - iLvl 100 Shaper/Elder",
-      "stackSize": 10,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Strategist",
+      "reward": "Inspired Learning - Corrupted",
+      "stackSize": 6,
+      "dropLocation": "\"Drox, The Warlord\"",
+      "goldCost": 700,
+      "weight": 36.01
     },
     {
       "id": 3268,
-      "name": "Fateful Meeting",
-      "reward": "League-Specific Unique - Double-Influenced - Two-Implicit",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Cheater",
+      "reward": "6/20 Awakened Support Gem",
+      "stackSize": 3,
+      "dropLocation": "Fortress",
+      "goldCost": 1025,
+      "weight": 11.65
     },
     {
       "id": 3269,
-      "name": "The Astromancer",
-      "reward": "The Eternity Shroud - Two-Implicit",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Tinkerer's Table",
+      "reward": "5x Fossil",
+      "stackSize": 5,
+      "dropLocation": "Acid Caverns, Caer Blaidd, Wolpack's Den, Maze of the Minotaur ",
+      "goldCost": 350,
+      "weight": 274.87
     },
     {
       "id": 3270,
-      "name": "Keeper's Corruption",
-      "reward": "Eldritch Magic Bone Helmet (Conc Effect) iLvl 89 - Elder",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Easy Stroll",
+      "reward": "8mod Tier 15 Rare Map",
+      "stackSize": 2,
+      "dropLocation": "Castle Ruins, Orchard",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3271,
-      "name": "Reckless Ambition",
-      "reward": "Omeyocan",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Progeny of Lunaris",
+      "reward": "Dying Sun",
+      "stackSize": 2,
+      "dropLocation": "Poorjoy's Asylum",
+      "goldCost": 725,
+      "weight": 32.46
     },
     {
       "id": 3272,
-      "name": "Love Through Ice",
-      "reward": "Unnatural Instinct - Two-Implicit",
+      "name": "The Eldritch Decay",
+      "reward": "Uber Elder Fragment",
       "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Elder Guardian",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3273,
-      "name": "Draped In Dreams",
-      "reward": "Six-Link Astral Plate - iLvl 100 Influenced",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Council of Cats",
+      "reward": "Farrul Item",
+      "stackSize": 4,
+      "dropLocation": "\"Al-Hezmin, The Hunter\"",
+      "goldCost": 350,
+      "weight": 274.87
     },
     {
       "id": 3274,
-      "name": "The Patient",
-      "reward": "The Nurse",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Tumbleweed",
+      "reward": "Diamond Ring of Redemption iLvl 100 - Redeemer",
+      "stackSize": 2,
+      "dropLocation": "Desert Spring, Wasteland",
+      "goldCost": 725,
+      "weight": 32.46
     },
     {
       "id": 3275,
-      "name": "The Long Watch",
-      "reward": "The Fourth Vow",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Hive Of Knowledge",
+      "reward": "Machina Mitts - Two-Implicit ",
+      "stackSize": 6,
+      "dropLocation": "The Temple of Atzoatl",
+      "goldCost": 800,
+      "weight": 24.27
     },
     {
       "id": 3276,
-      "name": "The Bear Woman",
-      "reward": "Fecund Ursine Pelt - Warlord",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Gift Of Asenath",
+      "reward": "Asenath's Gentle Touch - Two-Implicit",
+      "stackSize": 5,
+      "dropLocation": "Dunes, Wasteland",
+      "goldCost": 450,
+      "weight": 131.98
     },
     {
       "id": 3277,
-      "name": "Brotherhood In Exile",
-      "reward": "One with Nothing - Corrupted ",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "A Note In The Wind",
+      "reward": "Asenath's Mark",
+      "stackSize": 4,
+      "dropLocation": "Dunes, Pillars of Arun",
+      "goldCost": 350,
+      "weight": 274.87
     },
     {
       "id": 3278,
-      "name": "Winter's Embrace",
-      "reward": "Circle of Fear - Three-Implicit - Synthesised",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Greatest Intentions",
+      "reward": "The Saviour - Two-Implicit",
+      "stackSize": 10,
+      "dropLocation": "\"The Feared\"",
+      "goldCost": 1350,
+      "weight": 5.14
     },
     {
       "id": 3279,
-      "name": "Sambodhi's Wisdom",
-      "reward": "Tabula Rasa - Two-Implicit",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The White Knight",
+      "reward": "Six-Link Astral Plate iLvl 100 - Crusader",
+      "stackSize": 8,
+      "dropLocation": "Trial of Stinging Doubt",
+      "goldCost": 650,
+      "weight": 44.8
     },
     {
       "id": 3280,
-      "name": "The Enthusiasts",
-      "reward": "Victario's Influence - Two-Implicit",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Prometheus' Armoury",
+      "reward": "Rare One-Hand Weapon iLvl 100 - Double-Influenced",
+      "stackSize": 6,
+      "dropLocation": "\"Haku, Warmaster\"",
+      "goldCost": 800,
+      "weight": 24.27
     },
     {
       "id": 3281,
-      "name": "Broken Promises",
-      "reward": "Synthesised Diamond Ring - Two-Implicit",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
+      "name": "The Sustenance",
+      "reward": "Energy From Within - Two-Implicit",
+      "stackSize": 3,
+      "dropLocation": "Drop Disabled",
+      "goldCost": 1000000,
       "weight": 0
     },
     {
       "id": 3282,
-      "name": "Brush, Paint And Palette",
-      "reward": "The Artist",
+      "name": "Peaceful Moments",
+      "reward": "Timeless Jewel",
       "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Orchard",
+      "goldCost": 350,
+      "weight": 274.87
     },
     {
       "id": 3283,
-      "name": "Deadly Joy",
-      "reward": "Torrent's Reclamation - Two-Implicit",
+      "name": "The Awakened",
+      "reward": "Rare Jewellery iLvl 86 - Double-Influenced",
       "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Olmec's Sanctum, Palace",
+      "goldCost": 925,
+      "weight": 15.79
     },
     {
       "id": 3284,
-      "name": "The Adventuring Spirit",
-      "reward": "Victario's Influence",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "A Familiar Call",
+      "reward": "Magic Jewellery iLvl 100 - Shaper/Hunter",
+      "stackSize": 3,
+      "dropLocation": "Pit of the Chimera",
+      "goldCost": 1150,
+      "weight": 8.28
     },
     {
       "id": 3285,
-      "name": "The Eternal War",
-      "reward": "Timeless Jewel - Two-Implicit",
+      "name": "The Long Con",
+      "reward": "Elderslayer's Exalted Orb",
       "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Izaro's Treasure",
+      "goldCost": 600,
+      "weight": 56.72
     },
     {
       "id": 3286,
-      "name": "Prejudice",
-      "reward": "Unique Item - Influenced",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Gulf",
+      "reward": "Thread of Hope - Two-Implicit",
+      "stackSize": 5,
+      "dropLocation": "Courtyard of Wasting",
+      "goldCost": 650,
+      "weight": 44.8
     },
     {
       "id": 3287,
-      "name": "The Shortcut",
-      "reward": "Quicksilver Flask of the Cheetah iLvl 100",
-      "stackSize": 1,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Bitter Blossom",
+      "reward": "21/23 Chaos Gem",
+      "stackSize": 3,
+      "dropLocation": "Arid Lake, Bramble Valley",
+      "goldCost": 450,
+      "weight": 131.98
     },
     {
       "id": 3288,
-      "name": "The Card Sharp",
-      "reward": "Divination Scarab",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Triskaidekaphobia",
+      "reward": "Rare Map Tier 13 Quality 13% 8mod 100% Delirious",
+      "stackSize": 13,
+      "dropLocation": "\"Atziri, Queen of the Vaal\"",
+      "goldCost": 200,
+      "weight": 1383.22
     },
     {
       "id": 3289,
-      "name": "A Modest Request",
-      "reward": "Megalomaniac",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Unrequited Love",
+      "reward": "19x Mirror Shard",
+      "stackSize": 16,
+      "dropLocation": "Maze, Vaal Temple",
+      "goldCost": 1450,
+      "weight": 4.16
     },
     {
       "id": 3290,
-      "name": "Luminous Trove",
-      "reward": "Voices",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Cache",
+      "reward": "Unique Jewellery",
+      "stackSize": 6,
+      "dropLocation": "Mineral Pools, Underground Sea",
+      "goldCost": 100,
+      "weight": 10000
     },
     {
       "id": 3291,
-      "name": "The Hook",
-      "reward": "21/23 Transfigured Gem",
+      "name": "The Academic",
+      "reward": "Inspired Learning",
       "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Academy, Theatre of Lies",
+      "goldCost": 400,
+      "weight": 186.24
     },
     {
       "id": 3292,
-      "name": "The Last Supper",
-      "reward": "Bino's Kitchen Knife",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Desecrated Virtue",
+      "reward": "Awakened Support Gem 6/23",
+      "stackSize": 9,
+      "dropLocation": "\"Aul, the Crystal King\"",
+      "goldCost": 775,
+      "weight": 26.66
     },
     {
       "id": 3293,
-      "name": "The Emptiness",
-      "reward": "Vaal Breach Quality 6%",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Brother's Stash",
+      "reward": "5x Exalted Orb",
+      "stackSize": 1,
+      "dropLocation": "Burial Chambers, Necropolis",
+      "goldCost": 600,
+      "weight": 56.72
     },
     {
       "id": 3294,
-      "name": "A Sea Of Blue",
-      "reward": "13x Alteration Orb",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Unchained",
+      "reward": "Facebreaker - Two-Implicit",
+      "stackSize": 4,
+      "dropLocation": "Pit, Pit of the Chimera, Racecourse",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3295,
-      "name": "The Offspring",
-      "reward": "Ryslatha's Coil",
-      "stackSize": 1,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Unexpected Prize",
+      "reward": "Attribute Transforming Jewel - Corrupted",
+      "stackSize": 2,
+      "dropLocation": "Villa",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3296,
-      "name": "The Price Of Prescience",
-      "reward": "Vaal Temple - 100% Delirium",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Cursed Words",
+      "reward": "Maw of Mischief",
+      "stackSize": 13,
+      "dropLocation": "Cemetery, Olmec's Sanctum",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3297,
-      "name": "The Mind's Eyes",
-      "reward": "Astral Projector",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Journalist",
+      "reward": "Rare Helmet - Double-Veiled",
+      "stackSize": 10,
+      "dropLocation": "Defiled Cathedral",
+      "goldCost": 55,
+      "weight": 18181.82
     },
     {
       "id": 3298,
-      "name": "Terrible Secret Of Space",
-      "reward": "21/23 Transfigured Golem Gem",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Haunting Shadows",
+      "reward": "Metamorph Item",
+      "stackSize": 4,
+      "dropLocation": "Arcade, Factory",
+      "goldCost": 225,
+      "weight": 986.69
     },
     {
       "id": 3299,
-      "name": "The Blessing Of Moosh",
-      "reward": "21/0 Transfigured Gem",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Acclimatisation",
+      "reward": "20x Orb of Alteration",
+      "stackSize": 2,
+      "dropLocation": "Desert, Dunes",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3300,
-      "name": "Costly Curio",
-      "reward": "Unique Item - Double-Influenced",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Whiteout",
+      "reward": "Cospri's Malice",
+      "stackSize": 8,
+      "dropLocation": "Glacier, Summit",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3301,
-      "name": "Lachrymal Necrosis",
-      "reward": "Rare Jewel - CB - Corrupted",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Society's Remorse",
+      "reward": "10x Orb of Alteration",
+      "stackSize": 1,
+      "dropLocation": "Sulphite Deposits",
+      "goldCost": 125,
+      "weight": 5254.31
     },
     {
       "id": 3302,
-      "name": "Dementophobia",
-      "reward": "10x Delirium Orb",
-      "stackSize": 11,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Dying Light",
+      "reward": "Rare Diamond Ring - iLvl 100 Shaper/Elder",
+      "stackSize": 10,
+      "dropLocation": "\"The Feared\"",
+      "goldCost": 650,
+      "weight": 44.8
     },
     {
       "id": 3303,
-      "name": "Ambitious Obsession",
-      "reward": "Skittering Delirium Orb",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Fateful Meeting",
+      "reward": "League-Specific Unique - Double-Influenced - Two-Implicit",
+      "stackSize": 9,
+      "dropLocation": "\"Vaal Flesh Merchant\"",
+      "goldCost": 1150,
+      "weight": 8.28
     },
     {
       "id": 3304,
-      "name": "Desperate Crusade",
-      "reward": "Prism Guardian",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Astromancer",
+      "reward": "The Eternity Shroud - Two-Implicit",
+      "stackSize": 7,
+      "dropLocation": "\"Corpse Stitcher\", \"Flesh Sculptor\"",
+      "goldCost": 1450,
+      "weight": 4.16
     },
     {
       "id": 3305,
-      "name": "A Stone Perfected",
-      "reward": "Unique Primordial Jewel - 1/2 Implicit",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Keeper's Corruption",
+      "reward": "Eldritch Magic Bone Helmet (Conc Effect) iLvl 89 - Elder",
+      "stackSize": 7,
+      "dropLocation": "Chayula's Domain",
+      "goldCost": 925,
+      "weight": 15.79
     },
     {
       "id": 3306,
-      "name": "Treasures Of The Vaal",
-      "reward": "Vaal Jewel - Two-Implicit",
-      "stackSize": 12,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Reckless Ambition",
+      "reward": "Omeyocan",
+      "stackSize": 6,
+      "dropLocation": "Courtyard of Wasting, \"The Eradicator\"",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3307,
-      "name": "The Rabbit's Foot",
-      "reward": "10x Incursion Vial",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Love Through Ice",
+      "reward": "Unnatural Instinct - Two-Implicit",
+      "stackSize": 4,
+      "dropLocation": "\"Veritania, The Redeemer\"",
+      "goldCost": 1350,
+      "weight": 5.14
     },
     {
       "id": 3308,
-      "name": "Chasing Risk",
-      "reward": "Synthesis Item",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Draped In Dreams",
+      "reward": "Six-Link Astral Plate - iLvl 100 Influenced",
+      "stackSize": 5,
+      "dropLocation": "Museum",
+      "goldCost": 625,
+      "weight": 50.29
     },
     {
       "id": 3309,
-      "name": "The Prince Of Darkness",
-      "reward": "Elegant Hubris",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Patient",
+      "reward": "The Nurse",
+      "stackSize": 8,
+      "dropLocation": "Promenade",
+      "goldCost": 225,
+      "weight": 986.69
     },
     {
       "id": 3310,
-      "name": "The Catch",
-      "reward": "Fishing Rod iLvl 99 - Incubated",
-      "stackSize": 18,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Long Watch",
+      "reward": "The Fourth Vow",
+      "stackSize": 3,
+      "dropLocation": "Arachnid Tomb, Infested Valley",
+      "goldCost": 550,
+      "weight": 73.26
     },
     {
       "id": 3311,
-      "name": "Eternal Bonds",
-      "reward": "Replica Cortex",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Bear Woman",
+      "reward": "Fecund Ursine Pelt - Warlord",
+      "stackSize": 6,
+      "dropLocation": "Cemetery, Marshes",
+      "goldCost": 225,
+      "weight": 986.69
     },
     {
       "id": 3312,
-      "name": "Disdain",
-      "reward": "Delirium Orb",
+      "name": "Brotherhood In Exile",
+      "reward": "One with Nothing - Corrupted ",
       "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Chateau",
+      "goldCost": 375,
+      "weight": 224.83
     },
     {
       "id": 3313,
-      "name": "The Scout",
-      "reward": "7x Exalted Orb",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Winter's Embrace",
+      "reward": "Circle of Fear - Three-Implicit - Synthesised",
+      "stackSize": 2,
+      "dropLocation": "?",
+      "goldCost": 600,
+      "weight": 56.72
     },
     {
       "id": 3314,
-      "name": "Guardian's Challenge",
-      "reward": "Shaper Guardian Map",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Sambodhi's Wisdom",
+      "reward": "Tabula Rasa - Two-Implicit",
+      "stackSize": 3,
+      "dropLocation": "Academy",
+      "goldCost": 575,
+      "weight": 64.28
     },
     {
       "id": 3315,
-      "name": "The Forgotten Treasure",
-      "reward": "Unique Leather Belt - Double-Influenced ",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Enthusiasts",
+      "reward": "Victario's Influence - Two-Implicit",
+      "stackSize": 3,
+      "dropLocation": "Bazaar",
+      "goldCost": 300,
+      "weight": 430.11
     },
     {
       "id": 3316,
-      "name": "The Fox In The Brambles",
-      "reward": "Bramblejack - Two-Implicit",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Broken Promises",
+      "reward": "Synthesised Diamond Ring - Two-Implicit",
+      "stackSize": 2,
+      "dropLocation": "Alleyways, Ghetto",
+      "goldCost": 650,
+      "weight": 44.8
     },
     {
       "id": 3317,
-      "name": "The Aspirant",
-      "reward": "Magic Item - Elevated/Influenced",
+      "name": "Brush, Paint And Palette",
+      "reward": "The Artist",
       "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Phantasmagoria, Waste Pool",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3318,
-      "name": "Judging Voices",
-      "reward": "Forbidden Shako",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Deadly Joy",
+      "reward": "Torrent's Reclamation - Two-Implicit",
+      "stackSize": 6,
+      "dropLocation": "Precinct, Primordial Blocks",
+      "goldCost": 725,
+      "weight": 32.46
     },
     {
       "id": 3319,
-      "name": "Bijoux",
-      "reward": "Rare Cluster Jewel - iLvl 84",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Adventuring Spirit",
+      "reward": "Victario's Influence",
+      "stackSize": 6,
+      "dropLocation": "Ashen Wood, Thicket",
+      "goldCost": 75,
+      "weight": 13333.33
     },
     {
       "id": 3320,
-      "name": "Silence And Frost",
-      "reward": "The Pandemonius",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Eternal War",
+      "reward": "Timeless Jewel - Two-Implicit",
+      "stackSize": 4,
+      "dropLocation": "Sirus Guardian",
+      "goldCost": 950,
+      "weight": 14.59
     },
     {
       "id": 3321,
-      "name": "Misery In Darkness",
-      "reward": "Shroud of the Lightless ",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Prejudice",
+      "reward": "Unique Item - Influenced",
+      "stackSize": 7,
+      "dropLocation": "Redeemer-Influenced Maps",
+      "goldCost": 150,
+      "weight": 3138.96
     },
     {
       "id": 3322,
-      "name": "The Tireless Extractor",
-      "reward": "10x Oil",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Shortcut",
+      "reward": "Quicksilver Flask of the Cheetah iLvl 100",
+      "stackSize": 1,
+      "dropLocation": "Vaal Side Areas, Labyrinth Trial Areas Area Level 80+",
+      "goldCost": 425,
+      "weight": 156.01
     },
     {
       "id": 3323,
-      "name": "Justified Ambition",
-      "reward": "Synthesis Map",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Card Sharp",
+      "reward": "Divination Scarab",
+      "stackSize": 4,
+      "dropLocation": "\"Ahuana\", \"Paquate\", \"Zalatl\"",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3324,
-      "name": "Parasitic Passengers",
-      "reward": "10x Incubator iLvl 84",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "A Modest Request",
+      "reward": "Megalomaniac",
+      "stackSize": 3,
+      "dropLocation": "City Square, Villa",
+      "goldCost": 475,
+      "weight": 112.65
     },
     {
       "id": 3325,
-      "name": "Duality",
-      "reward": "Body Armour - iLvl 100 Double-Influenced",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Luminous Trove",
+      "reward": "Voices",
+      "stackSize": 7,
+      "dropLocation": "\"Aul, the Crystal King\"",
+      "goldCost": 575,
+      "weight": 64.28
     },
     {
       "id": 3326,
-      "name": "The One That Got Away",
-      "reward": "Replica Bated Breath",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Hook",
+      "reward": "21/23 Transfigured Gem",
+      "stackSize": 8,
+      "dropLocation": "\"Venarius\"",
+      "goldCost": 475,
+      "weight": 112.65
     },
     {
       "id": 3327,
-      "name": "The Transformation",
-      "reward": "Tainted Mythic Orb",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Last Supper",
+      "reward": "Bino's Kitchen Knife",
+      "stackSize": 6,
+      "dropLocation": "\"Hallowed Ground\"",
+      "goldCost": 1025,
+      "weight": 11.65
     },
     {
       "id": 3328,
-      "name": "Magnum Opus",
-      "reward": "Item iLvl 100 - Three-Implicit Synthesised",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
+      "name": "The Emptiness",
+      "reward": "Vaal Breach Quality 6%",
+      "stackSize": 6,
+      "dropLocation": "Drop Disabled",
+      "goldCost": 1000000,
       "weight": 0
     },
     {
       "id": 3329,
-      "name": "Imperfect Memories",
-      "reward": "Rare Jewellery iLvl 100 - Three-Implicit Synthesised",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "A Sea Of Blue",
+      "reward": "13x Alteration Orb",
+      "stackSize": 3,
+      "dropLocation": "Citadel, Grotto, Ziggurat",
+      "goldCost": 90,
+      "weight": 11111.11
     },
     {
       "id": 3330,
-      "name": "The Magma Crab",
-      "reward": "21/0 Vaal Molten Shell",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Offspring",
+      "reward": "Ryslatha's Coil",
+      "stackSize": 1,
+      "dropLocation": "Mineral Pools, Mud Geyser",
+      "goldCost": 325,
+      "weight": 340.97
     },
     {
       "id": 3331,
-      "name": "Altered Perception",
-      "reward": "Simulacrum",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Price Of Prescience",
+      "reward": "Vaal Temple - 100% Delirium",
+      "stackSize": 5,
+      "dropLocation": "Sirus Guardian",
+      "goldCost": 375,
+      "weight": 224.83
     },
     {
       "id": 3332,
-      "name": "Further Invention",
-      "reward": "Magic Helmet iLvl 100 - Double-Influenced",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Mind's Eyes",
+      "reward": "Astral Projector",
+      "stackSize": 7,
+      "dropLocation": "Mud Geyser",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3333,
-      "name": "The Brawny Battle Mage",
-      "reward": "Merciless Tornado Wand iLvl 100",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Terrible Secret Of Space",
+      "reward": "21/23 Transfigured Golem Gem",
+      "stackSize": 8,
+      "dropLocation": "Coves, Flooded Mine",
+      "goldCost": 1250,
+      "weight": 6.46
     },
     {
       "id": 3334,
-      "name": "A Fate Worse Than Death",
-      "reward": "Cortex",
+      "name": "The Blessing Of Moosh",
+      "reward": "21/0 Transfigured Gem",
       "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Darkshrines in Labyrinth, Area level 67+",
+      "goldCost": 375,
+      "weight": 224.83
     },
     {
       "id": 3335,
-      "name": "The Destination",
-      "reward": "Watcher's Eye - Two-Implicit",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Costly Curio",
+      "reward": "Unique Item - Double-Influenced",
+      "stackSize": 6,
+      "dropLocation": "Mausoleum, Primordial Blocks, Sanctuary",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3336,
-      "name": "Rebirth And Renewal",
-      "reward": "Horned Scarab",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Lachrymal Necrosis",
+      "reward": "Rare Jewel - CB - Corrupted",
+      "stackSize": 3,
+      "dropLocation": "Coves, Waterways",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3337,
-      "name": "The Forward Gaze",
-      "reward": "Replica Item",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Dementophobia",
+      "reward": "10x Delirium Orb",
+      "stackSize": 11,
+      "dropLocation": "Sirus Guardian",
+      "goldCost": 500,
+      "weight": 96.92
     },
     {
       "id": 3338,
-      "name": "The Apothecary",
-      "reward": "Mageblood",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Ambitious Obsession",
+      "reward": "Skittering Delirium Orb",
+      "stackSize": 4,
+      "dropLocation": "Infested Valley, Summit",
+      "goldCost": 1850,
+      "weight": 2.01
     },
     {
       "id": 3339,
-      "name": "Home",
-      "reward": "Exceptional Gem (0-20% Quality)",
+      "name": "Desperate Crusade",
+      "reward": "Prism Guardian",
       "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Atoll, Channel",
+      "goldCost": 375,
+      "weight": 224.83
     },
     {
       "id": 3340,
-      "name": "The Dungeon Master",
-      "reward": "Unique Belt - Double-Influenced",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "A Stone Perfected",
+      "reward": "Unique Primordial Jewel - 1/2 Implicit",
+      "stackSize": 5,
+      "dropLocation": "Grotto",
+      "goldCost": 425,
+      "weight": 156.01
     },
     {
       "id": 3341,
-      "name": "From Bone To Ashes",
-      "reward": "Ngamahu's Flame - Two-Implicit",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
+      "name": "Treasures Of The Vaal",
+      "reward": "Vaal Jewel - Two-Implicit",
+      "stackSize": 12,
+      "dropLocation": "Drop Disabled",
+      "goldCost": 1000000,
       "weight": 0
     },
     {
       "id": 3342,
-      "name": "Darker Half",
-      "reward": "5x Eldritch Chaos Orb",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Rabbit's Foot",
+      "reward": "10x Incursion Vial",
+      "stackSize": 8,
+      "dropLocation": "Citadel, Ziggurat",
+      "goldCost": 575,
+      "weight": 64.28
     },
     {
       "id": 3343,
-      "name": "Broken Truce",
-      "reward": "Cold Iron Point",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Chasing Risk",
+      "reward": "Synthesis Item",
+      "stackSize": 4,
+      "dropLocation": "\"The Vaal Omnitect\"",
+      "goldCost": 350,
+      "weight": 274.87
     },
     {
       "id": 3344,
-      "name": "Doryani's Epiphany",
-      "reward": "21/20 Transfigured Gem",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Prince Of Darkness",
+      "reward": "Elegant Hubris",
+      "stackSize": 6,
+      "dropLocation": "Abomination, Core, Marshes",
+      "goldCost": 375,
+      "weight": 224.83
     },
     {
       "id": 3345,
-      "name": "Endless Night",
-      "reward": "Maloney's Mechanism",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Catch",
+      "reward": "Fishing Rod iLvl 99 - Incubated",
+      "stackSize": 18,
+      "dropLocation": "Shore",
+      "goldCost": 925,
+      "weight": 15.79
     },
     {
       "id": 3346,
-      "name": "The Shieldbearer",
-      "reward": "The Squire",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Eternal Bonds",
+      "reward": "Replica Cortex",
+      "stackSize": 4,
+      "dropLocation": "Map Rewards from Heist",
+      "goldCost": 725,
+      "weight": 32.46
     },
     {
       "id": 3347,
-      "name": "Choking Guilt",
-      "reward": "Stranglegasp",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Disdain",
+      "reward": "Delirium Orb",
+      "stackSize": 5,
+      "dropLocation": "The Maven's Crucible",
+      "goldCost": 300,
+      "weight": 430.11
     },
     {
       "id": 3348,
-      "name": "The Enforcer",
-      "reward": "Spiked Gloves of the Conquest (Culling Strike) iLvl 86 - Warlord",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Scout",
+      "reward": "7x Exalted Orb",
+      "stackSize": 8,
+      "dropLocation": "Thicket",
+      "goldCost": 325,
+      "weight": 340.97
     },
     {
       "id": 3349,
-      "name": "The Shepherd's Sandals",
-      "reward": "Unique Boots iLvl 100 - Two-Implicit",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Guardian's Challenge",
+      "reward": "Shaper Guardian Map",
+      "stackSize": 4,
+      "dropLocation": "Kirac Shop",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
       "id": 3350,
-      "name": "Azure Rage",
-      "reward": "Magic Map Tier 16 - Punishing",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Forgotten Treasure",
+      "reward": "Unique Leather Belt - Double-Influenced ",
+      "stackSize": 6,
+      "dropLocation": "Chambers of Impurity, Ivory Temple, Residence",
+      "goldCost": 325,
+      "weight": 340.97
     },
     {
       "id": 3351,
-      "name": "The Leviathan",
-      "reward": "Maven Item - Two-Implicit",
+      "name": "The Fox In The Brambles",
+      "reward": "Bramblejack - Two-Implicit",
       "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Courtyard",
+      "goldCost": 225,
+      "weight": 986.69
     },
     {
       "id": 3352,
-      "name": "The Price Of Devotion",
-      "reward": "Mageblood Quality 20% - Two-Implicit",
-      "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Aspirant",
+      "reward": "Magic Item - Elevated/Influenced",
+      "stackSize": 5,
+      "dropLocation": "\"Oshabi, Avatar of the Grove\"",
+      "goldCost": 925,
+      "weight": 15.79
     },
     {
       "id": 3353,
-      "name": "Astral Protection",
-      "reward": "Normal Shield - Shaper",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Judging Voices",
+      "reward": "Forbidden Shako",
+      "stackSize": 9,
+      "dropLocation": "?",
+      "goldCost": 400,
+      "weight": 186.24
     },
     {
       "id": 3354,
-      "name": "Gemcutter's Mercy",
-      "reward": "Exceptional Gem",
+      "name": "Bijoux",
+      "reward": "Rare Cluster Jewel - iLvl 84",
       "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Excavation",
+      "goldCost": 350,
+      "weight": 274.87
     },
     {
       "id": 3355,
-      "name": "Checkmate",
-      "reward": "76x Simulacrum Splinter",
-      "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Silence And Frost",
+      "reward": "The Pandemonius",
+      "stackSize": 7,
+      "dropLocation": "\"Farrul, First of the Plains\"",
+      "goldCost": 625,
+      "weight": 50.29
     },
     {
       "id": 3356,
-      "name": "Lethean Temptation",
-      "reward": "Nebulis",
+      "name": "Misery In Darkness",
+      "reward": "Shroud of the Lightless ",
       "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "\"Kurgal, the Blackblooded\"",
+      "goldCost": 450,
+      "weight": 131.98
     },
     {
       "id": 3357,
-      "name": "Something Dark",
-      "reward": "Blueprint Area Level 83 - Fully Revealed",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Tireless Extractor",
+      "reward": "10x Oil",
+      "stackSize": 8,
+      "dropLocation": "Forge of the Phoenix, Fortress, Shipyard",
+      "goldCost": 70,
+      "weight": 14285.71
     },
     {
       "id": 3358,
-      "name": "Man With Bear",
-      "reward": "Bestiary Scarab",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Justified Ambition",
+      "reward": "Synthesis Map",
+      "stackSize": 5,
+      "dropLocation": "Chambers of Impurity, Sirus Guardian",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3359,
-      "name": "Alivia's Grace",
-      "reward": "Queen of the Forest",
-      "stackSize": 6,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Parasitic Passengers",
+      "reward": "10x Incubator iLvl 84",
+      "stackSize": 8,
+      "dropLocation": "Core, Phantasmagoria",
+      "goldCost": 250,
+      "weight": 728.58
     },
     {
       "id": 3360,
-      "name": "Auspicious Ambitions",
-      "reward": "Experimented Item iLvl 100 - Double-Influenced",
-      "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Duality",
+      "reward": "Body Armour - iLvl 100 Double-Influenced",
+      "stackSize": 2,
+      "dropLocation": "Architects in Temple of Atzoatl",
+      "goldCost": 1150,
+      "weight": 8.28
     },
     {
       "id": 3361,
-      "name": "Divine Beauty",
-      "reward": "7x Divine Orb",
-      "stackSize": 12,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The One That Got Away",
+      "reward": "Replica Bated Breath",
+      "stackSize": 7,
+      "dropLocation": "Beach, Strand",
+      "goldCost": 1450,
+      "weight": 4.16
     },
     {
       "id": 3362,
-      "name": "The Wedding Gift",
-      "reward": "Arakaali's Fang",
-      "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Transformation",
+      "reward": "Tainted Mythic Orb",
+      "stackSize": 5,
+      "dropLocation": "Bone Crypt, Hallowed Ground",
+      "goldCost": 325,
+      "weight": 340.97
     },
     {
       "id": 3363,
-      "name": "The Insane Cat",
-      "reward": "Mageblood iLvl 84 - Corrupted",
-      "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Magnum Opus",
+      "reward": "Item iLvl 100 - Three-Implicit Synthesised",
+      "stackSize": 5,
+      "dropLocation": "Synthesised Maps",
+      "goldCost": 575,
+      "weight": 64.28
     },
     {
       "id": 3364,
-      "name": "Ever-Changing",
-      "reward": "10x Orb of Unmaking",
-      "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "Imperfect Memories",
+      "reward": "Rare Jewellery iLvl 100 - Three-Implicit Synthesised",
+      "stackSize": 5,
+      "dropLocation": "\"Venarius\"",
+      "goldCost": 650,
+      "weight": 44.8
     },
     {
       "id": 3365,
-      "name": "A Dusty Memory",
-      "reward": "Rare item iLvl 100 - Fractured",
-      "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "name": "The Magma Crab",
+      "reward": "21/0 Vaal Molten Shell",
+      "stackSize": 6,
+      "dropLocation": "\"Magnus Stonethorn\"",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
       "id": 3366,
-      "name": "The Return Of The Rat",
-      "reward": "Tavukai",
+      "name": "Altered Perception",
+      "reward": "Simulacrum",
       "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "\"Uhtred, Covetous Traitor\"",
+      "goldCost": 725,
+      "weight": 32.46
     },
     {
       "id": 3367,
+      "name": "Further Invention",
+      "reward": "Magic Helmet iLvl 100 - Double-Influenced",
+      "stackSize": 4,
+      "dropLocation": "Shipyard",
+      "goldCost": 850,
+      "weight": 20.29
+    },
+    {
+      "id": 3368,
+      "name": "The Brawny Battle Mage",
+      "reward": "Merciless Tornado Wand iLvl 100",
+      "stackSize": 5,
+      "dropLocation": "Waste Pool",
+      "goldCost": 375,
+      "weight": 224.83
+    },
+    {
+      "id": 3369,
+      "name": "A Fate Worse Than Death",
+      "reward": "Cortex",
+      "stackSize": 4,
+      "dropLocation": "Sirus Guardian, \"Sirus, Awakener of Worlds\"",
+      "goldCost": 525,
+      "weight": 83.99
+    },
+    {
+      "id": 3370,
+      "name": "The Destination",
+      "reward": "Watcher's Eye - Two-Implicit",
+      "stackSize": 9,
+      "dropLocation": "Atoll, Waterways",
+      "goldCost": 925,
+      "weight": 15.79
+    },
+    {
+      "id": 3371,
+      "name": "Rebirth And Renewal",
+      "reward": "Horned Scarab",
+      "stackSize": 4,
+      "dropLocation": "Oba's Cursed Trove",
+      "goldCost": 250,
+      "weight": 728.58
+    },
+    {
+      "id": 3372,
+      "name": "The Forward Gaze",
+      "reward": "Replica Item",
+      "stackSize": 6,
+      "dropLocation": "Doryani's Machinarium",
+      "goldCost": 200,
+      "weight": 1383.22
+    },
+    {
+      "id": 3373,
+      "name": "The Apothecary",
+      "reward": "Mageblood",
+      "stackSize": 5,
+      "dropLocation": "Defiled Cathedral",
+      "goldCost": 1100,
+      "weight": 9.45
+    },
+    {
+      "id": 3374,
+      "name": "Home",
+      "reward": "Exceptional Gem (0-20% Quality)",
+      "stackSize": 3,
+      "dropLocation": "Alleyways, City Square",
+      "goldCost": 475,
+      "weight": 112.65
+    },
+    {
+      "id": 3375,
+      "name": "The Dungeon Master",
+      "reward": "Unique Belt - Double-Influenced",
+      "stackSize": 7,
+      "dropLocation": "Cells",
+      "goldCost": 300,
+      "weight": 430.11
+    },
+    {
+      "id": 3376,
+      "name": "From Bone To Ashes",
+      "reward": "Ngamahu's Flame - Two-Implicit",
+      "stackSize": 8,
+      "dropLocation": "Volcano",
+      "goldCost": 400,
+      "weight": 186.24
+    },
+    {
+      "id": 3377,
+      "name": "Darker Half",
+      "reward": "5x Eldritch Chaos Orb",
+      "stackSize": 3,
+      "dropLocation": "Currency Rewards from Delirium, Simulacrum",
+      "goldCost": 750,
+      "weight": 29.37
+    },
+    {
+      "id": 3378,
+      "name": "Broken Truce",
+      "reward": "Cold Iron Point",
+      "stackSize": 5,
+      "dropLocation": "\"Thane Jorgin\"",
+      "goldCost": 175,
+      "weight": 2025.45
+    },
+    {
+      "id": 3379,
+      "name": "Doryani's Epiphany",
+      "reward": "21/20 Transfigured Gem",
+      "stackSize": 3,
+      "dropLocation": "Doryani's Machinarium",
+      "goldCost": 450,
+      "weight": 131.98
+    },
+    {
+      "id": 3380,
+      "name": "Endless Night",
+      "reward": "Maloney's Mechanism",
+      "stackSize": 7,
+      "dropLocation": "Leo's Trapped Stashes",
+      "goldCost": 275,
+      "weight": 553.31
+    },
+    {
+      "id": 3381,
+      "name": "The Shieldbearer",
+      "reward": "The Squire",
+      "stackSize": 8,
+      "dropLocation": "Citadel ",
+      "goldCost": 925,
+      "weight": 15.79
+    },
+    {
+      "id": 3382,
+      "name": "Choking Guilt",
+      "reward": "Stranglegasp",
+      "stackSize": 6,
+      "dropLocation": "\"The Infinite Hunger\"",
+      "goldCost": 1450,
+      "weight": 4.16
+    },
+    {
+      "id": 3383,
+      "name": "The Enforcer",
+      "reward": "Spiked Gloves of the Conquest (Culling Strike) iLvl 86 - Warlord",
+      "stackSize": 4,
+      "dropLocation": "Glacier, Mesa",
+      "goldCost": 1100,
+      "weight": 9.45
+    },
+    {
+      "id": 3384,
+      "name": "The Shepherd's Sandals",
+      "reward": "Unique Boots iLvl 100 - Two-Implicit",
+      "stackSize": 3,
+      "dropLocation": "Tropical Island",
+      "goldCost": 350,
+      "weight": 274.87
+    },
+    {
+      "id": 3385,
+      "name": "Azure Rage",
+      "reward": "Magic Map Tier 16 - Punishing",
+      "stackSize": 4,
+      "dropLocation": "Lighthouse, Tropical Island",
+      "goldCost": 125,
+      "weight": 5254.31
+    },
+    {
+      "id": 3386,
+      "name": "The Leviathan",
+      "reward": "Maven Item - Two-Implicit",
+      "stackSize": 7,
+      "dropLocation": "Strand",
+      "goldCost": 775,
+      "weight": 26.66
+    },
+    {
+      "id": 3387,
+      "name": "The Price Of Devotion",
+      "reward": "Mageblood Quality 20% - Two-Implicit",
+      "stackSize": 7,
+      "dropLocation": "\"Atziri, Queen of the Vaal\"",
+      "goldCost": 1850,
+      "weight": 2.01
+    },
+    {
+      "id": 3388,
+      "name": "Astral Protection",
+      "reward": "Normal Shield - Shaper",
+      "stackSize": 5,
+      "dropLocation": "Bramble Valley, Courtyard of Wasting",
+      "goldCost": 250,
+      "weight": 728.58
+    },
+    {
+      "id": 3389,
+      "name": "Gemcutter's Mercy",
+      "reward": "Exceptional Gem",
+      "stackSize": 3,
+      "dropLocation": "Gem Chests in Azurite Mine",
+      "goldCost": 450,
+      "weight": 131.98
+    },
+    {
+      "id": 3390,
+      "name": "Checkmate",
+      "reward": "76x Simulacrum Splinter",
+      "stackSize": 8,
+      "dropLocation": "Death and Taxes",
+      "goldCost": 325,
+      "weight": 340.97
+    },
+    {
+      "id": 3391,
+      "name": "Lethean Temptation",
+      "reward": "Nebulis",
+      "stackSize": 6,
+      "dropLocation": "?",
+      "goldCost": 475,
+      "weight": 112.65
+    },
+    {
+      "id": 3392,
+      "name": "Something Dark",
+      "reward": "Blueprint Area Level 83 - Fully Revealed",
+      "stackSize": 5,
+      "dropLocation": "\"It That Was Tul\", \"It That Was Esh\"",
+      "goldCost": 250,
+      "weight": 728.58
+    },
+    {
+      "id": 3393,
+      "name": "Man With Bear",
+      "reward": "Bestiary Scarab",
+      "stackSize": 3,
+      "dropLocation": "Cemetery, Chateau",
+      "goldCost": 250,
+      "weight": 728.58
+    },
+    {
+      "id": 3394,
+      "name": "Alivia's Grace",
+      "reward": "Queen of the Forest",
+      "stackSize": 6,
+      "dropLocation": "Jungle Valley, Spider Forest",
+      "goldCost": 175,
+      "weight": 2025.45
+    },
+    {
+      "id": 3395,
+      "name": "Auspicious Ambitions",
+      "reward": "Experimented Item iLvl 100 - Double-Influenced",
+      "stackSize": 4,
+      "dropLocation": "Pinnacle Boss",
+      "goldCost": 1150,
+      "weight": 8.28
+    },
+    {
+      "id": 3396,
+      "name": "Divine Beauty",
+      "reward": "7x Divine Orb",
+      "stackSize": 12,
+      "dropLocation": "Lava Chamber, Maesltrom of Chaos",
+      "goldCost": 275,
+      "weight": 553.31
+    },
+    {
+      "id": 3397,
+      "name": "The Wedding Gift",
+      "reward": "Arakaali's Fang",
+      "stackSize": 2,
+      "dropLocation": "Spider Forest, Toxic Sewer",
+      "goldCost": 550,
+      "weight": 73.26
+    },
+    {
+      "id": 3398,
+      "name": "The Insane Cat",
+      "reward": "Mageblood iLvl 84 - Corrupted",
+      "stackSize": 9,
+      "dropLocation": "\"Kosis, The Revelation\", \"Omniphobia, Fear Manifest\"",
+      "goldCost": 1850,
+      "weight": 2.01
+    },
+    {
+      "id": 3399,
+      "name": "Ever-Changing",
+      "reward": "10x Orb of Unmaking",
+      "stackSize": 3,
+      "dropLocation": "Kirac Missions",
+      "goldCost": 175,
+      "weight": 2025.45
+    },
+    {
+      "id": 3400,
+      "name": "A Dusty Memory",
+      "reward": "Rare item iLvl 100 - Fractured",
+      "stackSize": 5,
+      "dropLocation": "Synthesised Maps",
+      "goldCost": 325,
+      "weight": 340.97
+    },
+    {
+      "id": 3401,
+      "name": "The Return Of The Rat",
+      "reward": "Tavukai",
+      "stackSize": 3,
+      "dropLocation": "Park",
+      "goldCost": 200,
+      "weight": 1383.22
+    },
+    {
+      "id": 3402,
       "name": "The Finishing Touch",
       "reward": "Fertile Catalyst",
       "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "\"Hillock, the Blacksmith\"",
+      "goldCost": 275,
+      "weight": 553.31
     },
     {
-      "id": 4641,
+      "id": 4677,
       "name": "Brother's Gift",
       "reward": "5x Divine Orb",
       "stackSize": 1,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Grave Trough",
+      "goldCost": 600,
+      "weight": 56.72
     },
     {
-      "id": 4642,
+      "id": 4678,
       "name": "Soul Quenched",
       "reward": "Rare Experimented Two-Handed Weapon iLvl 86 Quality 30%",
       "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
+      "dropLocation": "Drop Disabled",
+      "goldCost": 1000000,
       "weight": 0
     },
     {
-      "id": 4643,
+      "id": 4679,
       "name": "Poisoned Faith",
       "reward": "Arakaali's Fang - Corrupted",
       "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Arachnid Tomb, Jungle Valley",
+      "goldCost": 550,
+      "weight": 73.26
     },
     {
-      "id": 4644,
+      "id": 4680,
       "name": "A Chilling Wind",
       "reward": "21/20 Vaal Cold Snap",
       "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Frozen Cabins, Glacier",
+      "goldCost": 325,
+      "weight": 340.97
     },
     {
-      "id": 4645,
+      "id": 4681,
       "name": "Matryoshka",
       "reward": "Rare Onyx Amulet iLvl 85 Quality 20% - Four Annoint - Incubating Talisman - Corrupted",
       "stackSize": 8,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Port, Wasteland",
+      "goldCost": 1850,
+      "weight": 2.01
     },
     {
-      "id": 4764,
+      "id": 4800,
       "name": "The Fortunate",
       "reward": "2x Divine Orb",
       "stackSize": 12,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Dunes",
+      "goldCost": 175,
+      "weight": 2025.45
     },
     {
-      "id": 4765,
+      "id": 4801,
       "name": "Fire Of Unknown Origin",
       "reward": "Nimis",
       "stackSize": 7,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Ghetto, Villa",
+      "goldCost": 925,
+      "weight": 15.79
     },
     {
-      "id": 4766,
+      "id": 4802,
       "name": "Father's Love",
       "reward": "Sublime Vision",
       "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Shaper Guardian",
+      "goldCost": 1350,
+      "weight": 5.14
     },
     {
-      "id": 4896,
+      "id": 4932,
       "name": "Who Asked",
       "reward": "Dictator's Weapon iLvl 83 - Fractured",
       "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Factory, Silo, Forge of the Phoenix, Fortress",
+      "goldCost": 1000,
+      "weight": 12.54
     },
     {
-      "id": 4897,
+      "id": 4933,
       "name": "Eldritch Perfection",
       "reward": "Item iLvl 100 - Perfect Implicit",
       "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Eldritch Monsters",
+      "goldCost": 575,
+      "weight": 64.28
     },
     {
-      "id": 4898,
+      "id": 4934,
       "name": "Assassin's Gift",
       "reward": "Divinarius - Two-Implicit",
       "stackSize": 9,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "?",
+      "goldCost": 1850,
+      "weight": 2.01
     },
     {
-      "id": 4899,
+      "id": 4935,
       "name": "I See Brothers",
       "reward": "2x Fracturing Orb",
       "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Canyon, Ivory Temple",
+      "goldCost": 775,
+      "weight": 26.66
     },
     {
-      "id": 5057,
+      "id": 5093,
       "name": "Avian Pursuit",
       "reward": "1500x Vivid Crystallised Lifeforce",
       "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Beach, Courtyard of Wasting",
+      "goldCost": 500,
+      "weight": 96.92
     },
     {
-      "id": 5058,
+      "id": 5094,
       "name": "Temperance",
       "reward": "Unique Relic iLvl 83",
       "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Mausoleum, Primordial Blocks",
+      "goldCost": 525,
+      "weight": 83.99
     },
     {
-      "id": 5059,
+      "id": 5095,
       "name": "Lonely Warrior",
       "reward": "Defiance of Destiny",
       "stackSize": 10,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Volcano",
+      "goldCost": 1250,
+      "weight": 6.46
     },
     {
-      "id": 5060,
+      "id": 5096,
       "name": "Toxic Tidings",
       "reward": "Dendrobate - Two-Implicit",
       "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Primordial Pool, Sulphur Vents",
+      "goldCost": 375,
+      "weight": 224.83
     },
     {
-      "id": 5102,
+      "id": 5141,
       "name": "Runic Luck",
       "reward": "10x Vendor Refresh Currency",
       "stackSize": 4,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Flooded Mine",
+      "goldCost": 550,
+      "weight": 73.26
     },
     {
-      "id": 5103,
+      "id": 5142,
       "name": "Last Stand",
       "reward": "The Surrender",
       "stackSize": 3,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Arsenal",
+      "goldCost": 1150,
+      "weight": 8.28
     },
     {
-      "id": 5104,
+      "id": 5143,
       "name": "Damnation",
       "reward": "The Original Scripture",
       "stackSize": 16,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Crimson Township",
+      "goldCost": 1350,
+      "weight": 5.14
     },
     {
-      "id": 5105,
+      "id": 5144,
       "name": "When Currents Blaze",
       "reward": "Stormfire Quality 20% - Corrupted",
       "stackSize": 2,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "Frozen Cabins",
+      "goldCost": 875,
+      "weight": 18.62
     },
     {
-      "id": 5106,
+      "id": 5145,
       "name": "History",
       "reward": "2x Hinekora's Lock",
       "stackSize": 5,
-      "dropLocation": "",
-      "goldCost": 0,
-      "weight": 0
+      "dropLocation": "The Temple of Atzoatl",
+      "goldCost": 1850,
+      "weight": 2.01
+    },
+    {
+      "id": 5188,
+      "name": "The Last Laugh",
+      "reward": " Replica Dragonfang's Flight",
+      "stackSize": 5,
+      "dropLocation": "Atoll",
+      "goldCost": 650,
+      "weight": 44.8
+    },
+    {
+      "id": 5189,
+      "name": "The Lake",
+      "reward": "Reflecting Mist",
+      "stackSize": 8,
+      "dropLocation": "Waterways",
+      "goldCost": 1500,
+      "weight": 3.76
+    },
+    {
+      "id": 5190,
+      "name": "One Last Score",
+      "reward": "Experimented Jewellery - iLvl 86",
+      "stackSize": 5,
+      "dropLocation": "Factory",
+      "goldCost": 1000,
+      "weight": 12.54
+    },
+    {
+      "id": 5191,
+      "name": "Bound by Flame",
+      "reward": "21/20 Flame Link",
+      "stackSize": 2,
+      "dropLocation": "Desert Spring",
+      "goldCost": 325,
+      "weight": 340.97
+    },
+    {
+      "id": 5192,
+      "name": "Outfoxed",
+      "reward": "Veiled Exalted Orb",
+      "stackSize": 2,
+      "dropLocation": "Desert",
+      "goldCost": 1000,
+      "weight": 12.54
     }
   ]
 }
